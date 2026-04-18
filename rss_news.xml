@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>RSS News Export</title>
+    <link>https://example.invalid/rss-news</link>
+    <description>Articles selected for RSS publication</description>
+    <atom:link href="https://example.invalid/rss-news" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Apr 2026 20:28:53 +0000</lastBuildDate>
+    <item>
+      <title>FlexGen moves to expand offerings with acquisition of Clean Energy Services</title>
+      <link>https://pv-magazine-usa.com/2026/04/03/flexgen-moves-to-expand-offerings-with-acquisition-of-clean-energy-services/</link>
+      <description>FlexGen, a battery energy storage system integrator and software provider, has acquired Clean Energy Services (CES). The acquisition will make CES a subsidiary of FlexGen's parent company. The stated intent is to continue serving existing CES customers and pursue expansion opportunities.</description>
+      <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/03/flexgen-moves-to-expand-offerings-with-acquisition-of-clean-energy-services/</guid>
+      <pubDate>Fri, 03 Apr 2026 14:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coal Is Rising in China’s Clean Energy Transition</title>
+      <link>https://thediplomat.com/2026/04/coal-is-rising-in-chinas-clean-energy-transition/</link>
+      <description>On 2026-04-14, China Power – The Diplomat reported on China's energy strategy regarding coal and renewables. The article contained no specific numerical data on capacity, cost, or deadlines.</description>
+      <guid isPermaLink="true">https://thediplomat.com/2026/04/coal-is-rising-in-chinas-clean-energy-transition/</guid>
+      <pubDate>Tue, 14 Apr 2026 12:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Power surge: We were promised affordable electricity. Instead, we got higher prices - Washington Examiner</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHNLRDd1UWtXN291UERuQlp3RXlYQXVyc3EtSlEwUWw3ZFFneG1CNWNMekJoT3FUV0kzekJYQkNvUXJ5T21vaU9kaFJjbUNxaXBhTjcwUEZnbm0tdXYtZEVOMFJfd3BHQTVhMTF4YXJ5cERpd1JhZTY2NkxRQTkyVUhVYXBrWjJOLTlsMmx5aE1hcXFQR3R0V2NJQ0xNMVhSTlZpcnpzbjl3clZvTDJjaEJBdmM</link>
+      <description>On 2026-04-14, the Washington Examiner reports on unfulfilled promises of affordable electricity leading to higher prices. No specific numbers (MW/MWh/$/rate/deadline) are provided in the content.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHNLRDd1UWtXN291UERuQlp3RXlYQXVyc3EtSlEwUWw3ZFFneG1CNWNMekJoT3FUV0kzekJYQkNvUXJ5T21vaU9kaFJjbUNxaXBhTjcwUEZnbm0tdXYtZEVOMFJfd3BHQTVhMTF4YXJ5cERpd1JhZTY2NkxRQTkyVUhVYXBrWjJOLTlsMmx5aE1hcXFQR3R0V2NJQ0xNMVhSTlZpcnpzbjl3clZvTDJjaEJBdmM</guid>
+      <pubDate>Tue, 14 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Utility companies to spend $1.4 trillion over the next 5 years amid data center boom - CBS News</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWVBVzRQbXM3RjZvRXhtUmQweGJ3cFVRbkJqeFNUVzkyTlE0NVJHbXpKb1hOcmlQMHJ2Z2x0aWsxRktHOURYV3VqTkFlRkk0ZmRNNXNaY3BVSVk5dlRZMzRRQVd0RlRtQ21faHJ4eDlIXzJNcFk5ZV9OYWN5a3ViY0dxSlloQ1B6M0Zz0gGQAUFVX3lxTFAxTExMZG13OGZpWkpMejFpMjROckFPR1B4VWxrV3htOXlDWW9wRER1UWVGbGRyeG0zTzFrYXd4a3M4cDdsYWktNUJaRVp6WS04NTZHQ1YyY1BackRUemhRbFpjdGZfeE5DWTN5UzFWMUEtZ0JDRXlPY2RsVUljVVRFeTR2S3RGMnZ6SW1VWHhYNw</link>
+      <description>On 2026-04-14, CBS News reported that utility companies plan to spend $1.4 trillion over the next five years, driven by a data center boom. The article specifies the $1.4 trillion expenditure and the five-year timeframe.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWVBVzRQbXM3RjZvRXhtUmQweGJ3cFVRbkJqeFNUVzkyTlE0NVJHbXpKb1hOcmlQMHJ2Z2x0aWsxRktHOURYV3VqTkFlRkk0ZmRNNXNaY3BVSVk5dlRZMzRRQVd0RlRtQ21faHJ4eDlIXzJNcFk5ZV9OYWN5a3ViY0dxSlloQ1B6M0Zz0gGQAUFVX3lxTFAxTExMZG13OGZpWkpMejFpMjROckFPR1B4VWxrV3htOXlDWW9wRER1UWVGbGRyeG0zTzFrYXd4a3M4cDdsYWktNUJaRVp6WS04NTZHQ1YyY1BackRUemhRbFpjdGZfeE5DWTN5UzFWMUEtZ0JDRXlPY2RsVUljVVRFeTR2S3RGMnZ6SW1VWHhYNw</guid>
+      <pubDate>Tue, 14 Apr 2026 15:43:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data centers undertake great Midwest migration in search of power - Fierce Network</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjJPNFEtUmlPQkN5MG8zNWVZejNfQkRXdHlTRF94SkFrMm9MZ3g3VmZ0cF9YN3hfMEJ2VjRLQ3pfTkdxSi1CZjhUUm0yaDM3czdjOUlwNlFFbjdDUFU3RzI3M2ZjQ3JfdHN2Q3BXTjJOTE9zX0o2Zzd5RGJtQl9LWmdRWjdka2hGRkllWGktSEswUGdsc0U2bUxMcmU</link>
+      <description>On 2026-04-14, Fierce Network reported that data centers are undertaking a significant migration to the Midwest region in search of power. The article does not specify concrete numbers for capacity, cost, or deadlines.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjJPNFEtUmlPQkN5MG8zNWVZejNfQkRXdHlTRF94SkFrMm9MZ3g3VmZ0cF9YN3hfMEJ2VjRLQ3pfTkdxSi1CZjhUUm0yaDM3czdjOUlwNlFFbjdDUFU3RzI3M2ZjQ3JfdHN2Q3BXTjJOTE9zX0o2Zzd5RGJtQl9LWmdRWjdka2hGRkllWGktSEswUGdsc0U2bUxMcmU</guid>
+      <pubDate>Tue, 14 Apr 2026 16:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Balance Of Power In The World Is Shifting, &amp; The US Will Be The Biggest Loser</title>
+      <link>https://cleantechnica.com/2026/04/14/the-balance-of-power-in-the-world-is-shifting-the-us-will-be-the-biggest-loser/</link>
+      <description>On 2026-04-14, CleanTechnica published an opinion piece arguing the global balance of power is shifting away from the United States, citing historical military actions and recent political events. The article mentions no specific power-market numbers like MW, MWh, or $.</description>
+      <guid isPermaLink="true">https://cleantechnica.com/2026/04/14/the-balance-of-power-in-the-world-is-shifting-the-us-will-be-the-biggest-loser/</guid>
+      <pubDate>Tue, 14 Apr 2026 17:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>States are Struggling to Meet Their Clean Energy Goals. Data Centers are to Blame - Broadband Breakfast</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUQ5OTJoZ3lLTTF6bWRhT0pHbEJOS1p2a3dyemVZSlVuYXhibndVTmdqb1JPT3RLSndnWlpqdnBRdXlBZFJRWUV0ZEIxdHllOGFkRzJ4bU8tYl9qME9tbVFmLW5nOThmNkFQcXhDd0tiZGlKb0dLOXRCbW9jWDhJeDFoT0plRFZobDYwaTRtSmRGbi14QUgzc1FYVkM3QTlUeHVaY2hkTzF6cjZ4OHRVV2h3</link>
+      <description>On 2026-04-14, Broadband Breakfast reports that states are struggling to meet their clean energy goals, with data centers identified as a primary cause. The article does not provide specific numbers for capacity, cost, or deadlines.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUQ5OTJoZ3lLTTF6bWRhT0pHbEJOS1p2a3dyemVZSlVuYXhibndVTmdqb1JPT3RLSndnWlpqdnBRdXlBZFJRWUV0ZEIxdHllOGFkRzJ4bU8tYl9qME9tbVFmLW5nOThmNkFQcXhDd0tiZGlKb0dLOXRCbW9jWDhJeDFoT0plRFZobDYwaTRtSmRGbi14QUgzc1FYVkM3QTlUeHVaY2hkTzF6cjZ4OHRVV2h3</guid>
+      <pubDate>Tue, 14 Apr 2026 17:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Utility investment plans jump 21%, further threatening affordability: PowerLines</title>
+      <link>https://www.utilitydive.com/news/utility-investment-plans-jump-21-further-threatening-affordability-power/817524/</link>
+      <description>On 2026-04-15, Utility Dive reported on rising utility investment plans and rate increase requests, driven by load growth from data centers and AI, which threaten electricity affordability. Utility capital expenditure plans jumped 21%, with $31 billion in rate increases requested in the latest year, and summer peak demand is projected to grow by 224 GW (24%) over the next decade.</description>
+      <guid isPermaLink="true">https://www.utilitydive.com/news/utility-investment-plans-jump-21-further-threatening-affordability-power/817524/</guid>
+      <pubDate>Wed, 15 Apr 2026 09:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Habitat Energy Expands Into PJM - Bluefield Daily Telegraph</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXN4dlNrS3NqZnlZM1JoRGhfV2V6ZXVEaTVxVV9QSHdwMWVzNXNNamNyODVOQmZQRFlXSk1OaXBJOWhBcS1DOEZSNUROS0tsR0Q0UHo0Y1dFMms5QmZybUJzcVdIZXhuXy1iMjVXTEV0Z3ZrVC1WU2kzWTMtZkdxSGR3U0ozeHBPaDRDNGZiRFhoeGZiLThLSHJrRk03bEFLTE5oaFlWb0JaYXFIc2pXY284bGZRbE4tM1I0VndTLTZtSXM</link>
+      <description>On 2026-04-15, Habitat Energy, a battery storage optimization firm, expanded its operations into the PJM Interconnection market. The article provides no specific numbers regarding capacity, investment, or rates for this expansion.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXN4dlNrS3NqZnlZM1JoRGhfV2V6ZXVEaTVxVV9QSHdwMWVzNXNNamNyODVOQmZQRFlXSk1OaXBJOWhBcS1DOEZSNUROS0tsR0Q0UHo0Y1dFMms5QmZybUJzcVdIZXhuXy1iMjVXTEV0Z3ZrVC1WU2kzWTMtZkdxSGR3U0ozeHBPaDRDNGZiRFhoeGZiLThLSHJrRk03bEFLTE5oaFlWb0JaYXFIc2pXY284bGZRbE4tM1I0VndTLTZtSXM</guid>
+      <pubDate>Wed, 15 Apr 2026 11:02:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silver demand from PV industry expected to drop 19% this year</title>
+      <link>https://pv-magazine-usa.com/2026/04/15/silver-demand-from-pv-industry-expected-to-drop-19-this-year/</link>
+      <description>On 2026-04-15, pv magazine USA reported on a forecast decline in silver demand from the global photovoltaic industry. The report states silver demand from PV producers is forecast to fall 19% in 2026 to around 151 million ounces, following a 6% decline to 186.6 million ounces in 2025.</description>
+      <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/15/silver-demand-from-pv-industry-expected-to-drop-19-this-year/</guid>
+      <pubDate>Wed, 15 Apr 2026 14:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>An outdated FERC policy is undermining the White House’s ratepayer protection pledge</title>
+      <link>https://www.utilitydive.com/news/ferc-transmission-policy-white-house-ratepayer-protection-peskoe/815438/</link>
+      <description>On 2026-04-15, Harvard's Ari Peskoe argues that an outdated 1994 FERC transmission pricing policy allows utilities to roll billions in data-center-driven transmission upgrade costs into rates paid by all customers, undermining a White House ratepayer protection pledge. The policy, developed from a 1991 Penelec case, prohibits 'and' pricing but allows disaggregated cost recovery for different facilities, as seen in a 2014 utility contract for a wind farm.</description>
+      <guid isPermaLink="true">https://www.utilitydive.com/news/ferc-transmission-policy-white-house-ratepayer-protection-peskoe/815438/</guid>
+      <pubDate>Wed, 15 Apr 2026 15:31:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending - CNBC</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0NhNjBCMDF6eVpOOW9FejZwaUhBR05YaFBCcWR6SXRZTnlocFpnQ0pLeVYyR3pQRFZQQmhMM1JIXy13TFdCMFlQM0tMY01Qa3RyVGZqcjV5UXFrNVR3cnR3eTVwd3dFR0FKRnpOYXdaWDNpVUtVR3hJa1VBcUc2YVdHenptRWlubVh0VU8xQUFTUdIBlwFBVV95cUxNQWYtUVN6ekNrdGtyalk0dnVlN2ZzaThjWkdsYm4yRGU3ZTk3V2hqTlNHb1BNNFB3ZHJJTGtOYVBDN0huSDhqekw1YkR1ZXNtNzVFd2h2RVJncl9LeGlpVTB2bUZYQW5uZ0tmdEVfaDRfa0o0SFl3WVRMMjlGSVVFTkoxYVVfMm1JZ1ZuamNVc3ZiMnd0anhV</link>
+      <description>On 2026-04-15, CNBC reports public sentiment is turning against AI and data centers as companies Anthropic and OpenAI plan IPOs while tech spending continues. The article provides no specific numbers on power, cost, or capacity.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0NhNjBCMDF6eVpOOW9FejZwaUhBR05YaFBCcWR6SXRZTnlocFpnQ0pLeVYyR3pQRFZQQmhMM1JIXy13TFdCMFlQM0tMY01Qa3RyVGZqcjV5UXFrNVR3cnR3eTVwd3dFR0FKRnpOYXdaWDNpVUtVR3hJa1VBcUc2YVdHenptRWlubVh0VU8xQUFTUdIBlwFBVV95cUxNQWYtUVN6ekNrdGtyalk0dnVlN2ZzaThjWkdsYm4yRGU3ZTk3V2hqTlNHb1BNNFB3ZHJJTGtOYVBDN0huSDhqekw1YkR1ZXNtNzVFd2h2RVJncl9LeGlpVTB2bUZYQW5uZ0tmdEVfaDRfa0o0SFl3WVRMMjlGSVVFTkoxYVVfMm1JZ1ZuamNVc3ZiMnd0anhV</guid>
+      <pubDate>Wed, 15 Apr 2026 23:57:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data center growth is off the charts thanks to AI. Here's what to know - Deseret News</title>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ3dhRGJuaS1rU0F5eTBUeHo4dmFFQ2psRnM1TXViVEZTN0tFY2NhOFZLR0FhSDZxSXpjRXpiQUpRRTRSYkdJQmlVb0dwaWNpMTBsMlBiNHdvd3ZIYi00TnlSWU9LbnQ0d0s4MkdMRlZKSURqZWJmd1ZPNW5WZlRwc3BYc0NBSkFQbDBLY3ktZ1p3SG5RZlJFZU1Cb1BOcnZlc0NXU0U4YU1IdS1vUUhDY0pVWHF6eVk5UEU3VmpHTTBuTW5ZNV9Td05VeWs4cUkwTkczeGl3Wnp5RTdwUWdXaHFiVkRkRkpyQzdV</link>
+      <description>On 2026-04-16, the Deseret News reports that data center growth is exceptionally high due to artificial intelligence (AI). No specific numbers, locations, or regulatory details are provided in the given content.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ3dhRGJuaS1rU0F5eTBUeHo4dmFFQ2psRnM1TXViVEZTN0tFY2NhOFZLR0FhSDZxSXpjRXpiQUpRRTRSYkdJQmlVb0dwaWNpMTBsMlBiNHdvd3ZIYi00TnlSWU9LbnQ0d0s4MkdMRlZKSURqZWJmd1ZPNW5WZlRwc3BYc0NBSkFQbDBLY3ktZ1p3SG5RZlJFZU1Cb1BOcnZlc0NXU0U4YU1IdS1vUUhDY0pVWHF6eVk5UEU3VmpHTTBuTW5ZNV9Td05VeWs4cUkwTkczeGl3Wnp5RTdwUWdXaHFiVkRkRkpyQzdV</guid>
+      <pubDate>Thu, 16 Apr 2026 03:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data center growth could raise homeowners’ electricity bills - cbs19.tv</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGpnRDBJamJVaDNyUndUUGxWWjZzZlZKV0NEblYwUzlkaF9JdGxfTnlJdmQ3dkpvT3JURkFKSU1aOE1qNEg1SlQ3WjRHYmJRV2ROTklYdDlneFQ4NG9KSTJ4MjdzSEwwMHhTQkwtaEZzVG4xZTVKTkRsWmlQVkk2RUNfeVJNeTktdS1TMjVsVHdCY0xIRVh3aWZLNFctWHBQdTgwZldmVGIxTkFoMXhsbEgxQWxiYVZxMzRGdHJ4N3lXZmN6NG9VWGxTY1BGRm1mbk9WQg</link>
+      <description>On 2026-04-16, CBS19.tv reported that data center growth could raise homeowners' electricity bills. No specific numbers, rates, or deadlines are provided in the given content.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGpnRDBJamJVaDNyUndUUGxWWjZzZlZKV0NEblYwUzlkaF9JdGxfTnlJdmQ3dkpvT3JURkFKSU1aOE1qNEg1SlQ3WjRHYmJRV2ROTklYdDlneFQ4NG9KSTJ4MjdzSEwwMHhTQkwtaEZzVG4xZTVKTkRsWmlQVkk2RUNfeVJNeTktdS1TMjVsVHdCY0xIRVh3aWZLNFctWHBQdTgwZldmVGIxTkFoMXhsbEgxQWxiYVZxMzRGdHJ4N3lXZmN6NG9VWGxTY1BGRm1mbk9WQg</guid>
+      <pubDate>Thu, 16 Apr 2026 03:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apollo's Jim Zelter on AI Disruption and the Future of Private Credit</title>
+      <description>On 2026-04-16, Apollo Global Management President Jim Zelter discussed investment trends in a Goldman Sachs podcast. No specific numbers (MW/MWh/$/rate/deadline) were provided in the truncated content.</description>
+      <guid isPermaLink="false">article-1261</guid>
+      <pubDate>Thu, 16 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data centers pose grid, cost issues for Arizona - gilbertsunnews.com</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnNNNDhiYlNBLU9QZHhVTDhGTk1BdFFLNXdiMnNERkRyS2g1WlhtZGRGZGVBeWt1VmNPdVVtU0FkRTI3UWR2WEFsOFNYanEwZEZmOUNPZUZmX0gxRXVRYjk2eTJaQmxVcURxam5qM2ppRm5tUHhVeE5FblZxa1cyZ01aOTlKOVFZVXRBWW5tbVNfMHFCcmRfQXFqRUxKLS1CRUZTeG41dGtpaGtoalpEQS0xWm8xRlZZeDRCbDZJRk4xck1MdkxJcHNMWDc</link>
+      <description>On 2026-04-16, gilbertsunnews.com reports that data centers are creating grid and cost issues for Arizona. The article does not provide specific numbers for MW, MWh, $, rates, or deadlines.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnNNNDhiYlNBLU9QZHhVTDhGTk1BdFFLNXdiMnNERkRyS2g1WlhtZGRGZGVBeWt1VmNPdVVtU0FkRTI3UWR2WEFsOFNYanEwZEZmOUNPZUZmX0gxRXVRYjk2eTJaQmxVcURxam5qM2ppRm5tUHhVeE5FblZxa1cyZ01aOTlKOVFZVXRBWW5tbVNfMHFCcmRfQXFqRUxKLS1CRUZTeG41dGtpaGtoalpEQS0xWm8xRlZZeDRCbDZJRk4xck1MdkxJcHNMWDc</guid>
+      <pubDate>Thu, 16 Apr 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Thermal And Power Realities Of The AI Era - Semiconductor Engineering</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5nMU5MN1hmQk5CQ3lUdlp2WHBXYjlpNjNXMEJ4ZTNIaHZXOWo1UG5hMndpcmJmME1oaDU4enhudFkyX01XQ3FVeUlnVFB0UzRyOVhkdDNwVno3VHhxbFpkMDRMTWwwdWNKeUlFeHVLZkw4eWd0djJ4RVhuQ3J4UVE</link>
+      <description>On 2026-04-16, Semiconductor Engineering published an article titled 'The Thermal And Power Realities Of The AI Era'. The article content was not provided, so no key numbers or specific details are available.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE5nMU5MN1hmQk5CQ3lUdlp2WHBXYjlpNjNXMEJ4ZTNIaHZXOWo1UG5hMndpcmJmME1oaDU4enhudFkyX01XQ3FVeUlnVFB0UzRyOVhkdDNwVno3VHhxbFpkMDRMTWwwdWNKeUlFeHVLZkw4eWd0djJ4RVhuQ3J4UVE</guid>
+      <pubDate>Thu, 16 Apr 2026 07:34:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Water use is a key data center issue. This will get you caught up. - Milwaukee Journal Sentinel</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUoxQkNCY0dGVHRuNU14WlZvVEJJSDM4dF9wVUt3enBSalNNbnl4NDQ5SEhSRV8wM1NfNVkwWkpFWVZnekxFSXFRNjBldlNQa0ViWmFXSW1jZUYwcFNJSVo5c3M0U0NiN0I3Ymd4aldMaEpxQkxSQWdzanM5Zklya0dZU1RkSERYQy1WUE9pVnN4YWhEb1V1UldYN0VpSEZEQ3NpWGNFaFFEYUVzMUN4UTEyd2xqZ1ZZdUEzcEttSkdqZUQzU0lZVmxVejdQREFVRXpLTjZ3</link>
+      <description>On 2026-04-16, the Milwaukee Journal Sentinel reported on water use as a key issue for data centers. The article did not provide specific numbers for water consumption, power demand, or costs.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUoxQkNCY0dGVHRuNU14WlZvVEJJSDM4dF9wVUt3enBSalNNbnl4NDQ5SEhSRV8wM1NfNVkwWkpFWVZnekxFSXFRNjBldlNQa0ViWmFXSW1jZUYwcFNJSVo5c3M0U0NiN0I3Ymd4aldMaEpxQkxSQWdzanM5Zklya0dZU1RkSERYQy1WUE9pVnN4YWhEb1V1UldYN0VpSEZEQ3NpWGNFaFFEYUVzMUN4UTEyd2xqZ1ZZdUEzcEttSkdqZUQzU0lZVmxVejdQREFVRXpLTjZ3</guid>
+      <pubDate>Thu, 16 Apr 2026 10:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Number Go Up - Mother Jones</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5ycmREaGpwN0JOZ0lrM21ZYlZYYXgzMUEzc05RY1VHNkVsQjJua0U2LV9QZGhsMHdNb2taZ25DUVhsUlMza21wREx4b1dxeC1uTExGMHhXZVpwQ1NBdzFyNTVhc0xyWTBQMmc</link>
+      <description>On 2026-04-16, Mother Jones published an article titled 'Number Go Up' sourced from Google News under the search term 'data center power'. No specific numbers, locations, or entities related to energy markets are provided in the given content.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE5ycmREaGpwN0JOZ0lrM21ZYlZYYXgzMUEzc05RY1VHNkVsQjJua0U2LV9QZGhsMHdNb2taZ25DUVhsUlMza21wREx4b1dxeC1uTExGMHhXZVpwQ1NBdzFyNTVhc0xyWTBQMmc</guid>
+      <pubDate>Thu, 16 Apr 2026 11:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apollo's Jim Zelter on AI Disruption and the Future of Private Credit</title>
+      <link>https://www.youtube.com/watch?v=5aEqPiUm4gw</link>
+      <description>On 2026-04-16, Apollo Global Management President Jim Zelter discussed investment trends in a Goldman Sachs interview recorded on March 11, 2026. No specific numbers (MW/MWh/$/rate/deadline) were provided in the available content.</description>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5aEqPiUm4gw</guid>
+      <pubDate>Thu, 16 Apr 2026 12:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber threats for PV: What are distributed denial-of-service attacks and how do they work</title>
+      <link>https://pv-magazine-usa.com/2026/04/16/cyber-threats-for-pv-what-are-distributed-denial-of-service-attacks-and-how-do-they-work/</link>
+      <description>On 2026-04-16, pv magazine USA reported on Distributed Denial-of-Service (DDoS) cyberattacks targeting network-connected PV systems and Battery Energy Storage Systems (BESS). The article contains no specific numerical data on capacity, cost, or rates.</description>
+      <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/16/cyber-threats-for-pv-what-are-distributed-denial-of-service-attacks-and-how-do-they-work/</guid>
+      <pubDate>Thu, 16 Apr 2026 12:25:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>High-Density AI Is Forcing a Power Reckoning at the Rack</title>
+      <link>https://www.powermag.com/high-density-ai-is-forcing-a-power-reckoning-at-the-rack/</link>
+      <description>On 2026-04-16, POWER Magazine reports that high-density AI computing is forcing the data center industry to reconsider AC-to-DC power conversion at the rack level due to significant efficiency losses. At AI-scale rack densities reaching 300 kW, a 4% conversion loss at a 100 kW rack creates a 4 kW heat load, compounding electrical waste and cooling costs.</description>
+      <guid isPermaLink="true">https://www.powermag.com/high-density-ai-is-forcing-a-power-reckoning-at-the-rack/</guid>
+      <pubDate>Thu, 16 Apr 2026 12:47:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERCOT says Texas demand could quadruple but cautions forecast may be inflated</title>
+      <link>https://www.utilitydive.com/news/texas-demand-to-quadruple-by-2032-ercot-says-maybe-but-dont-bet-on-it/817698/</link>
+      <description>On 2026-04-16, ERCOT published a preliminary forecast indicating Texas's peak electricity demand could reach 367,790 MW by 2032, driven by data centers and large industrial loads. The forecast, which ERCOT cautions may be inflated, compares to a current peak demand record of 85,508 MW set in August 2023.</description>
+      <guid isPermaLink="true">https://www.utilitydive.com/news/texas-demand-to-quadruple-by-2032-ercot-says-maybe-but-dont-bet-on-it/817698/</guid>
+      <pubDate>Thu, 16 Apr 2026 14:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas power demand to more than quadruple by 2032 as data center boom rolls on, ERCOT says - San Antonio Express-News</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVRBMnJKdTAyZTc2b01CYmx3ZWdzZkJWbnhwdlV1Q0R2Y2Q2LU1lSEhwdkJKZTlJRmIyQTNIRFBQcTI1QV93dHBDQ1RnUTBabmVYUE11U29pSDdwdllxbDNYVV9VUzZDVG1GWmkwRnEyOU1OTUJYVE9nQkJjMndORm5MVUJ2bGp2TmZweVJkYWlyM0xaQjhZU0hYcw</link>
+      <description>On 2026-04-16, the San Antonio Express-News reported that ERCOT forecasts a massive increase in Texas power demand due to data center growth. ERCOT projects demand will more than quadruple by the year 2032.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVRBMnJKdTAyZTc2b01CYmx3ZWdzZkJWbnhwdlV1Q0R2Y2Q2LU1lSEhwdkJKZTlJRmIyQTNIRFBQcTI1QV93dHBDQ1RnUTBabmVYUE11U29pSDdwdllxbDNYVV9VUzZDVG1GWmkwRnEyOU1OTUJYVE9nQkJjMndORm5MVUJ2bGp2TmZweVJkYWlyM0xaQjhZU0hYcw</guid>
+      <pubDate>Thu, 16 Apr 2026 20:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy Officials Pressured to Expand Grid as AI Demand Surges - Broadband Breakfast</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmpNcWY2aXhTeFpnV2JBUFQtUjZVTkJrRERYTUhuNFVHWlRaTHNQRWV2ZUJCcTdFV1p5OU02c2tUUjhuQjhqSE5aX2JQVDd0ZFplc2RpdElyZzRiWWRNUXJ3RGg4WVZsdm9wbUlQcWwzSmMzejliLTAyRzFJVVRzS1lTallsOHlPZDVZSFp3WGNWZ29VdTM4SQ</link>
+      <description>On 2026-04-16, Broadband Breakfast reported that energy officials are facing pressure to expand the electrical grid due to surging demand from artificial intelligence (AI) and data centers. The article does not specify any concrete numbers such as megawatt targets, costs, or deadlines for this expansion.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmpNcWY2aXhTeFpnV2JBUFQtUjZVTkJrRERYTUhuNFVHWlRaTHNQRWV2ZUJCcTdFV1p5OU02c2tUUjhuQjhqSE5aX2JQVDd0ZFplc2RpdElyZzRiWWRNUXJ3RGg4WVZsdm9wbUlQcWwzSmMzejliLTAyRzFJVVRzS1lTallsOHlPZDVZSFp3WGNWZ29VdTM4SQ</guid>
+      <pubDate>Thu, 16 Apr 2026 20:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webcast: Navigating Data Center Development Risks &amp; Emerging Litigation Trends - Gibson Dunn</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEd3eWZCcTItUjN5Yzg0YU5tVUxxLVo4Rl9nZmEyd3U1enltRGVPTTFmU3hYYWtnSnh5LTBtN2lZb3pZand5dFdFZ1ZXcWdTekdlV0ItR2NGUU9qdkhSMTF2S0NOOFJtY3VJQjdzS0hhN1JfOU9WV0l2bWdudjQ2V0EtX3JfVjVscjZUR3FVVEFMMGhmNzVSdWZ4dTlDbW04MTlpc09n</link>
+      <description>On 2026-04-16, Gibson Dunn hosted a webcast titled 'Navigating Data Center Development Risks &amp; Emerging Litigation Trends'. The article provides no specific numbers for MW, MWh, dollars, rates, or deadlines.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEd3eWZCcTItUjN5Yzg0YU5tVUxxLVo4Rl9nZmEyd3U1enltRGVPTTFmU3hYYWtnSnh5LTBtN2lZb3pZand5dFdFZ1ZXcWdTekdlV0ItR2NGUU9qdkhSMTF2S0NOOFJtY3VJQjdzS0hhN1JfOU9WV0l2bWdudjQ2V0EtX3JfVjVscjZUR3FVVEFMMGhmNzVSdWZ4dTlDbW04MTlpc09n</guid>
+      <pubDate>Thu, 16 Apr 2026 23:56:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s with the data centers controversy? - The Daily Advocate</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmxEQkt0bnZpeG5pb2xicVRnc1JMdVFTRlViYWRuZTRCcDBfNENYTzFsazRNME5sa2ZfTGswUjRiVmc3c1hkdmRUalVYdlpvUURxRGZsUTA2enNXMXpIZDFlSExsclRIY0hObzg1SkVkcVBrbHoxbmVQMThmZlFTLVVraExqNk9x</link>
+      <description>On 2026-04-17, The Daily Advocate published an article titled 'What’s with the data centers controversy?' sourced from Google News. The article contains no specific numerical data on power capacity, cost, or deadlines.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmxEQkt0bnZpeG5pb2xicVRnc1JMdVFTRlViYWRuZTRCcDBfNENYTzFsazRNME5sa2ZfTGswUjRiVmc3c1hkdmRUalVYdlpvUURxRGZsUTA2enNXMXpIZDFlSExsclRIY0hObzg1SkVkcVBrbHoxbmVQMThmZlFTLVVraExqNk9x</guid>
+      <pubDate>Fri, 17 Apr 2026 03:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>After 2 years, ratepayer pain and political fallout from Georgia’s nuclear plant Vogtle</title>
+      <link>https://www.utilitydive.com/news/after-2-years-ratepayer-pain-political-fallout-georgia-nuclear-vogtle/817792/</link>
+      <description>On 2026-04-17, Patty Durand of Georgians for Affordable Energy critiques the $36 billion, 2 GW Plant Vogtle nuclear project in Georgia, which caused a nearly 25% rate increase for Georgia Power customers in April 2024. The article contrasts this with Texas building 36 GW of solar and storage for about $36 billion in 4 years.</description>
+      <guid isPermaLink="true">https://www.utilitydive.com/news/after-2-years-ratepayer-pain-political-fallout-georgia-nuclear-vogtle/817792/</guid>
+      <pubDate>Fri, 17 Apr 2026 12:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>US power purchase agreements reach record prices: LevelTen</title>
+      <link>https://www.utilitydive.com/news/wind-solar-ppa-prices-levelten/817780/</link>
+      <description>On 2026-04-17, LevelTen Energy reported record-high U.S. power purchase agreement prices for wind and solar, driven by intense demand and development challenges. The average Q1 2026 PPA price reached $79.40/MWh for wind and $64.49/MWh for solar, marking the highest levels since LevelTen's index began in 2018.</description>
+      <guid isPermaLink="true">https://www.utilitydive.com/news/wind-solar-ppa-prices-levelten/817780/</guid>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERCOT Now Warning Texas of Data Centers Power Demands - Ksst Radio</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOd095TExTQ1hsRmNPdW9lWlFjalpuUDkyTG5ZWW5zMW5fR29QU2Nuc19yLTRuT25Dc2NpSjY5aFktREVUUE1rS2o3RUtITjlqQXRWYXVMVk1JUGpBbHFQRFNBNmF5MW4zNmN5azI0OE1IT2E0YTRxaS0yNUpSZldIX1lqb0RvT0J3Q0FHMWhOM3VLdw</link>
+      <description>On 2026-04-17, ERCOT is warning Texas about the power demands from data centers. The article does not specify any concrete numbers for power demand.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxOd095TExTQ1hsRmNPdW9lWlFjalpuUDkyTG5ZWW5zMW5fR29QU2Nuc19yLTRuT25Dc2NpSjY5aFktREVUUE1rS2o3RUtITjlqQXRWYXVMVk1JUGpBbHFQRFNBNmF5MW4zNmN5azI0OE1IT2E0YTRxaS0yNUpSZldIX1lqb0RvT0J3Q0FHMWhOM3VLdw</guid>
+      <pubDate>Fri, 17 Apr 2026 13:43:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth Day: Loudoun County’s Data Center Boom | Newswise - Newswise</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOSXNjakdMbTRMc0ExbldoZVBKOC1YVmhZQUxMRTZCSDg0cXRxWXd1Tk11djFpMk1kZWlFSFZRNjZUZXJiUDM1cXF5b2M1dUJTRUxSX2d5VzducjIyNVNYYmYwRm9NSkNEeG1PdWhjbzFLRDIzR3RqVHVHNF8yUDZMSTFLb9IBgwFBVV95cUxOSXNjakdMbTRMc0ExbldoZVBKOC1YVmhZQUxMRTZCSDg0cXRxWXd1Tk11djFpMk1kZWlFSFZRNjZUZXJiUDM1cXF5b2M1dUJTRUxSX2d5VzducjIyNVNYYmYwRm9NSkNEeG1PdWhjbzFLRDIzR3RqVHVHNF8yUDZMSTFLbw</link>
+      <description>On 2026-04-17, an article from Newswise discusses the data center boom in Loudoun County. No specific numbers, rates, or deadlines related to power consumption or costs are provided.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOSXNjakdMbTRMc0ExbldoZVBKOC1YVmhZQUxMRTZCSDg0cXRxWXd1Tk11djFpMk1kZWlFSFZRNjZUZXJiUDM1cXF5b2M1dUJTRUxSX2d5VzducjIyNVNYYmYwRm9NSkNEeG1PdWhjbzFLRDIzR3RqVHVHNF8yUDZMSTFLb9IBgwFBVV95cUxOSXNjakdMbTRMc0ExbldoZVBKOC1YVmhZQUxMRTZCSDg0cXRxWXd1Tk11djFpMk1kZWlFSFZRNjZUZXJiUDM1cXF5b2M1dUJTRUxSX2d5VzducjIyNVNYYmYwRm9NSkNEeG1PdWhjbzFLRDIzR3RqVHVHNF8yUDZMSTFLbw</guid>
+      <pubDate>Fri, 17 Apr 2026 13:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Centers, Power Markets, and the Economy: How the AI Buildout is Reshaping Energy Costs and the Grid - JD Supra</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3dGdWVyWG9zRGZsOEdqWERGVU05Y19abXJCS1JUSjl2UnhrNmgzYmx1RDBod3g4UmpRZTh5LTRKT1gzcGxRMEhyTjg4OHBUWkZKTjBlNDQ2b3NRMTNtU0JReEkxNTdwUkw1cjdOMHFBZm1rVEVVb3E1MHFsUkhYSWFZSQ</link>
+      <description>On 2026-04-17, JD Supra published an article discussing the impact of the AI buildout on data centers, power markets, and the economy, specifically regarding energy costs and the grid. The article does not provide specific numerical data such as MW, MWh, $, rates, or deadlines.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3dGdWVyWG9zRGZsOEdqWERGVU05Y19abXJCS1JUSjl2UnhrNmgzYmx1RDBod3g4UmpRZTh5LTRKT1gzcGxRMEhyTjg4OHBUWkZKTjBlNDQ2b3NRMTNtU0JReEkxNTdwUkw1cjdOMHFBZm1rVEVVb3E1MHFsUkhYSWFZSQ</guid>
+      <pubDate>Fri, 17 Apr 2026 13:58:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>The future of data centers and AI might surprise you - VCU News</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamphNW9tTXJDQkNKQkpNME1RRnc1Z0VFRE9oZVBWWGdhVGVUQ09Vb3A0ejBuVVBjZDItQmRRd3FwcFJuVU9MWkRQZzZ4alJKN1Y0VXhDVFlWTHljdE1JQw</link>
+      <description>On 2026-04-17, VCU News published an article titled 'The future of data centers and AI might surprise you'. The article contains no specific numbers, dates, locations, or financial details.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamphNW9tTXJDQkNKQkpNME1RRnc1Z0VFRE9oZVBWWGdhVGVUQ09Vb3A0ejBuVVBjZDItQmRRd3FwcFJuVU9MWkRQZzZ4alJKN1Y0VXhDVFlWTHljdE1JQw</guid>
+      <pubDate>Fri, 17 Apr 2026 14:52:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy demand in ComEd territory could double by 2040, in part driven by data centers - Capitol News Illinois</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUczNXJ1bmt2OFRqNkZGV25fSlN0TGdFRk14aHIyc2xVOGxsZThmUFg2SGRTUjc0U0ItRVdwY1dsdTZzVXFNY1pkR2JYcGFNME1Icm5KaE5XV2I1aDRQR1RieGVNeWRYeVdUdGVtVEhnMXVacWZMWDNNdzcyOFM1eTJfLWIxWk94ZGc0bjJRYnNUdkR0YTI1Ql9mSW1PNGRzSUhCS2xJdG1oNUYxcG1qTzUyeEozMkRqWDVXUjZtcw</link>
+      <description>On 2026-04-17, Capitol News Illinois reported that energy demand in the Commonwealth Edison (ComEd) service territory could double by 2040, driven in part by data center growth. The article states the demand could double by the year 2040.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUczNXJ1bmt2OFRqNkZGV25fSlN0TGdFRk14aHIyc2xVOGxsZThmUFg2SGRTUjc0U0ItRVdwY1dsdTZzVXFNY1pkR2JYcGFNME1Icm5KaE5XV2I1aDRQR1RieGVNeWRYeVdUdGVtVEhnMXVacWZMWDNNdzcyOFM1eTJfLWIxWk94ZGc0bjJRYnNUdkR0YTI1Ql9mSW1PNGRzSUhCS2xJdG1oNUYxcG1qTzUyeEozMkRqWDVXUjZtcw</guid>
+      <pubDate>Fri, 17 Apr 2026 15:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amid shortages of electricity, labor, and equipment, 40% of data centers in the U.S. may face delays, while major AI companies are constrained by limited computing power. - Moomoo</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHl3TTlvN251UXF2MFBQRDVodDVlZm42aURMcXpvS0NrRlk0cjdzT2RaWTZDeUtSS3pSR3FmNmpxbGFESVlSMVpURWpmclhIenIzLTNNRVJZYlN4OFRudmdZbkgtOFVfRHNaZXFJSC10eDBtQktFUWh1RVZDcmwtRnkwejYxbTk2VzB0NWpZMXpNcUVKQU5Da1NRNVoxNUhncG44Rg</link>
+      <description>On 2026-04-17, Moomoo reported that U.S. data centers face shortages of electricity, labor, and equipment. The report states 40% of U.S. data centers may face delays, and major AI companies are constrained by limited computing power.</description>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHl3TTlvN251UXF2MFBQRDVodDVlZm42aURMcXpvS0NrRlk0cjdzT2RaWTZDeUtSS3pSR3FmNmpxbGFESVlSMVpURWpmclhIenIzLTNNRVJZYlN4OFRudmdZbkgtOFVfRHNaZXFJSC10eDBtQktFUWh1RVZDcmwtRnkwejYxbTk2VzB0NWpZMXpNcUVKQU5Da1NRNVoxNUhncG44Rg</guid>
+      <pubDate>Fri, 17 Apr 2026 16:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rewiring global energy security</title>
+      <link>https://pv-magazine-usa.com/2026/04/17/rewiring-global-energy-security/</link>
+      <description>On 2026-04-17, pv magazine USA reported that global leaders are shifting focus from emissions reduction to energy independence and security, framing renewables as a strategic asset. The article states renewables avoided $467 billion in fossil fuel costs in 2024, and 91% of new utility-scale renewables were cheaper than fossil fuels, with solar PV 41% cheaper and onshore wind 53% cheaper.</description>
+      <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/17/rewiring-global-energy-security/</guid>
+      <pubDate>Fri, 17 Apr 2026 16:47:13 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

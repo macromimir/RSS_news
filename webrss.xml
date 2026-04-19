@@ -1,69 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>WebRSS Export</title>
-    <link>https://example.invalid/rss-news</link>
-    <description>Articles selected for RSS publication</description>
-    <atom:link href="https://example.invalid/rss-news" rel="self"/>
+    <title>DailyNewsRun WebRSS Feed</title>
+    <link>https://raw.githubusercontent.com/macromimir/RSS_news/main/webrss.xml</link>
+    <description>DailyNewsRun WebRSS feed with source links and text previews.</description>
+    <atom:link href="https://raw.githubusercontent.com/macromimir/RSS_news/main/webrss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 16:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 17:11:10 +0000</lastBuildDate>
     <item>
       <title>Utility companies to spend $1.4 trillion over the next 5 years amid data center boom - CBS News</title>
       <link>https://www.cbsnews.com/news/data-centers-drive-1-4-trillion-power-grid-investment/</link>
-      <description>U.S. investor-owned utilities plan to invest $1.4 trillion over the next five years, a 20% increase from 2025 projections, primarily driven by data center electricity demand. This capital expenditure surge risks passing significant costs to residential ratepayers, with oversight needed to manage the financial impact.</description>
+      <description>Updated on: April 14, 2026 / 3:37 PM EDT / CBS News U.S. utility companies are planning to invest $1.4 trillion over the next five years to update the nation's ailing power grid as the data center boom intensifies the need for electricity. That's according to a new report released Tuesday by the nonpartisan nonprofit consumer education organization PowerLines, which analyzed capital spending plans from 51 investor-owned utilities. A majority of those companies, which serve 250 million U.S. customers, cited data centers as a top driver of capital expenditures in their earnings reports.</description>
       <guid isPermaLink="true">https://www.cbsnews.com/news/data-centers-drive-1-4-trillion-power-grid-investment/</guid>
       <pubDate>Tue, 14 Apr 2026 15:43:23 +0000</pubDate>
     </item>
     <item>
       <title>Data centers undertake great Midwest migration in search of power - Fierce Network</title>
       <link>https://www.fierce-network.com/cloud/data-centers-undertake-great-midwest-migration-search-power</link>
-      <description>Data center developers are shifting major projects to the Midwest, particularly Illinois, due to severe power constraints in traditional hubs. This migration is creating new grid demands and opportunities for large-scale power infrastructure, including generation and storage.</description>
+      <description>Data centers undertake great Midwest migration in search of power Fierce Network</description>
       <guid isPermaLink="true">https://www.fierce-network.com/cloud/data-centers-undertake-great-midwest-migration-search-power</guid>
       <pubDate>Tue, 14 Apr 2026 16:53:00 +0000</pubDate>
     </item>
     <item>
       <title>Utility investment plans jump 21%, further threatening affordability: PowerLines</title>
       <link>https://www.utilitydive.com/news/utility-investment-plans-jump-21-further-threatening-affordability-power/817524/</link>
-      <description>On 2026-04-15, Utility Dive reported on rising utility investment plans and rate increase requests, driven by load growth from data centers and AI, which threaten electricity affordability. Utility capital expenditure plans jumped 21%, with $31 billion in rate increases requested in the latest year, and summer peak demand is projected to grow by 224 GW (24%) over the next decade.</description>
+      <description>“It’s like a gold rush,” said Southern Alliance for Clean Energy Executive Director Stephen Smith. Utilities are proposing investments to meet load growth that at times is “pure speculation,” he said. Utility spending plans show “a significant increase over the pace of annual spending over the last decade,” Hua said. And while capex investment doesn’t have to result in higher electricity prices, “that correlation is pretty sharp.” Along with the increased spending, gas and electric utilities last year requested $31 billion in rate increases, more than double the $15 billion requested by utilities in 2024 . Those increases “have not yet fully hit people’s bills,” Hua said. Capex and rate increases are “both leading indicators for where the trends around utility and electricity affordability could go over the next coming years,” he said.</description>
       <guid isPermaLink="true">https://www.utilitydive.com/news/utility-investment-plans-jump-21-further-threatening-affordability-power/817524/</guid>
       <pubDate>Wed, 15 Apr 2026 09:48:04 +0000</pubDate>
     </item>
     <item>
       <title>Apollo's Jim Zelter on AI Disruption and the Future of Private Credit</title>
       <link>https://www.youtube.com/watch?v=5aEqPiUm4gw</link>
-      <description>On 2026-04-16, Apollo Global Management President Jim Zelter discussed investment trends in a Goldman Sachs interview recorded on March 11, 2026. No specific numbers (MW/MWh/$/rate/deadline) were provided in the available content.</description>
+      <description>Apollo Global Management President Jim Zelter talks about the unprecedented surge in capital expenditures, the future of private credit, and where he’s seeing investment opportunities around the world. This episode was recorded on March 11, 2026. The opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representa...</description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=5aEqPiUm4gw</guid>
       <pubDate>Thu, 16 Apr 2026 12:00:20 +0000</pubDate>
     </item>
     <item>
       <title>Texas power demand to more than quadruple by 2032 as data center boom rolls on, ERCOT says - San Antonio Express-News</title>
       <link>https://www.expressnews.com/business/article/texas-data-centers-power-demand-ercot-22210102.php</link>
-      <description>ERCOT forecasts Texas peak electricity demand will more than quadruple to 376,790 MW by 2032, driven primarily by data centers. This unprecedented load growth presents a massive grid capacity and reliability challenge for the state.</description>
+      <description>ERCOT is forecasting a record-breaking summer of energy demand, with the grid operator attributing the rapid growth in demand to the influx of data centers coming to Texas. Electricity usage in Texas is expected to smash records this summer as the state grid operator braces for peak demand to more than quadruple by 2032, boosted by data centers and other big users flocking to the state, population growth and increasingly severe weather. This summer’s expected 15% increase over the demand record set in August 2023 was reported by the Electric Reliability Council of Texas in its long-term load forecast issued Thursday. The grid operator is projecting this summer’s peak to reach 98,000 megawatts, up from the 85,508 megawatts Texans used to stay cool Aug. 10, 2023. ERCOT said it has ample supply to meet this summer’s demand.</description>
       <guid isPermaLink="true">https://www.expressnews.com/business/article/texas-data-centers-power-demand-ercot-22210102.php</guid>
       <pubDate>Thu, 16 Apr 2026 20:21:58 +0000</pubDate>
     </item>
     <item>
       <title>Data Centers, Power Markets, and the Economy: How the AI Buildout is Reshaping Energy Costs and the Grid - JD Supra</title>
       <link>https://www.jdsupra.com/legalnews/data-centers-power-markets-and-the-8753269/</link>
-      <description>Data center and AI-driven electricity demand is materially impacting wholesale power prices, retail rates, and grid interconnection queues, with PJM's 2026 capacity auction already causing double-digit retail price increases in states like New Jersey. This has triggered federal and state policy responses, including the White House's March 2026 'Ratepayer Protection Pledge' and new state-level large-load tariffs.</description>
+      <description>Data centers – driven by artificial intelligence, cloud computing, and hyperscale digital infrastructure – are the new reality and are emerging as a consequential force in the United States economy. What was once a niche planning issue for utilities has now become a national debate as power-intensive data center loads are already impacting electricity rates, grid reliability, inflation, and economic development. Over the past several months, and especially in early 2026, nearly all sectors have begun to grapple with how the demands of the digital economy are reshaping energy systems and household costs, often resulting in significant public and policy-driven backlash . Utility Rate Consequences Estimates indicate that data centers already consume roughly four percent of national electricity production , and some projections now place that figure as high as 9-12 percent by the end of t...</description>
       <guid isPermaLink="true">https://www.jdsupra.com/legalnews/data-centers-power-markets-and-the-8753269/</guid>
       <pubDate>Fri, 17 Apr 2026 13:58:28 +0000</pubDate>
     </item>
     <item>
       <title>Energy demand in ComEd territory could double by 2040, in part driven by data centers - Capitol News Illinois</title>
       <link>https://capitolnewsillinois.com/news/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</link>
-      <description>Electricity demand in ComEd's service territory could more than double by 2040, primarily driven by data center projects in the interconnection queue. This surge creates an urgent need for new generation and demand management solutions to prevent supply shortfalls.</description>
+      <description>This summary was written by the reporters and editors who worked on this story. A House committee got an overview this week of how data centers are driving up energy demand and threatening potential shortfalls in the second of three planned hearings on the matter. The fundamental issue is that data centers have created a sudden and massive spike in demand for electricity, and Illinois doesn’t yet have the supply to accommodate it.</description>
       <guid isPermaLink="true">https://capitolnewsillinois.com/news/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</guid>
       <pubDate>Fri, 17 Apr 2026 15:56:25 +0000</pubDate>
     </item>
     <item>
       <title>Energy demand in ComEd territory could double by 2040, in part driven by data centers - Daily Herald</title>
       <link>https://www.dailyherald.com/20260417/illinois-state-politics/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</link>
-      <description>Electricity demand in ComEd's service territory is projected to double by 2040, with data center growth cited as a key driver. This scale of demand growth will require significant new grid infrastructure and generation capacity.</description>
+      <description>Energy demand in ComEd territory could double by 2040, in part driven by data centers Daily Herald</description>
       <guid isPermaLink="true">https://www.dailyherald.com/20260417/illinois-state-politics/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</guid>
       <pubDate>Fri, 17 Apr 2026 20:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sweating It Out: Data Centers Plus Summer Heat Raises Power Bills, Blackout Risk - The Daily Upside</title>
+      <link>https://www.thedailyupside.com/industries/energy/sweating-it-out-data-centers-plus-summer-heat-raise-power-bills-blackout-risk/</link>
+      <description>The US electrical grid isn’t ready for the double whammy of peak air conditioner usage and peak data center power needs. What happens now? In September 2022, as triple-digit outdoor temperatures baked large parts of California for days at a time, state officials begged residents to dial down their air conditioning use or risk breaking the electrical grid. The plea worked. Power demand fell during peak hours and the state avoided widespread, potentially catastrophic rolling blackouts.</description>
+      <guid isPermaLink="true">https://www.thedailyupside.com/industries/energy/sweating-it-out-data-centers-plus-summer-heat-raise-power-bills-blackout-risk/</guid>
+      <pubDate>Sun, 19 Apr 2026 04:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

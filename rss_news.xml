@@ -1,306 +1,313 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>RSS News Export</title>
-    <link>https://example.invalid/rss-news</link>
-    <description>Articles selected for RSS publication</description>
-    <atom:link href="https://example.invalid/rss-news" rel="self"/>
+    <title>DailyNewsRun RSS Feed</title>
+    <link>https://raw.githubusercontent.com/macromimir/RSS_news/main/rss_news.xml</link>
+    <description>DailyNewsRun article feed with source links and text previews.</description>
+    <atom:link href="https://raw.githubusercontent.com/macromimir/RSS_news/main/rss_news.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 16:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 17:11:10 +0000</lastBuildDate>
     <item>
       <title>FlexGen moves to expand offerings with acquisition of Clean Energy Services</title>
       <link>https://pv-magazine-usa.com/2026/04/03/flexgen-moves-to-expand-offerings-with-acquisition-of-clean-energy-services/</link>
-      <description>FlexGen, a battery energy storage system integrator and software provider, has acquired Clean Energy Services (CES). The acquisition will make CES a subsidiary of FlexGen's parent company. The stated intent is to continue serving existing CES customers and pursue expansion opportunities.</description>
+      <description>The move will see CES added as a subsidiary of the parent company, enabling continuation of service to existing customers and opportunities for expansion.</description>
       <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/03/flexgen-moves-to-expand-offerings-with-acquisition-of-clean-energy-services/</guid>
       <pubDate>Fri, 03 Apr 2026 14:31:08 +0000</pubDate>
     </item>
     <item>
       <title>Coal Is Rising in China’s Clean Energy Transition</title>
       <link>https://thediplomat.com/2026/04/coal-is-rising-in-chinas-clean-energy-transition/</link>
-      <description>On 2026-04-14, China Power – The Diplomat reported on China's energy strategy regarding coal and renewables. The article contained no specific numerical data on capacity, cost, or deadlines.</description>
+      <description>China is not moving from coal to renewables in a linear transition. Instead, it is attempting to expand both simultaneously.</description>
       <guid isPermaLink="true">https://thediplomat.com/2026/04/coal-is-rising-in-chinas-clean-energy-transition/</guid>
       <pubDate>Tue, 14 Apr 2026 12:19:00 +0000</pubDate>
     </item>
     <item>
       <title>Power surge: We were promised affordable electricity. Instead, we got higher prices - Washington Examiner</title>
       <link>https://www.washingtonexaminer.com/op-eds/4527017/americans-promised-affordable-electricity-reality-higher-prices/</link>
-      <description>Electricity rates in PJM states are rising faster than inflation and national averages, driven by wholesale market volatility. This matters because the market structure is criticized for shielding independent power producers from competition, preventing price stability for consumers.</description>
+      <description>For years, Americans were told that strict controls on who could own and build power plants would foster competition and lower prices. But in large parts of the mid-Atlantic, including Pennsylvania, New Jersey, and Maryland — PJM; this area also includes other states — the reality has been far different since the 1990s restructuring wave. Electricity rates in PJM states are rising faster than inflation and faster than in many other parts of the country. Families and small businesses are absorbing the impact of volatile capacity auctions and wholesale price spikes, while being told that this is “how markets work.” American consumers deserve a more honest conversation about the state of market competition and how outdated rules are holding back affordable power prices. The United States is the global power it is today because of the power of markets and choice, not big government polici...</description>
       <guid isPermaLink="true">https://www.washingtonexaminer.com/op-eds/4527017/americans-promised-affordable-electricity-reality-higher-prices/</guid>
       <pubDate>Tue, 14 Apr 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Utility companies to spend $1.4 trillion over the next 5 years amid data center boom - CBS News</title>
       <link>https://www.cbsnews.com/news/data-centers-drive-1-4-trillion-power-grid-investment/</link>
-      <description>U.S. investor-owned utilities plan to invest $1.4 trillion over the next five years, a 20% increase from 2025 projections, primarily driven by data center electricity demand. This capital expenditure surge risks passing significant costs to residential ratepayers, with oversight needed to manage the financial impact.</description>
+      <description>Updated on: April 14, 2026 / 3:37 PM EDT / CBS News U.S. utility companies are planning to invest $1.4 trillion over the next five years to update the nation's ailing power grid as the data center boom intensifies the need for electricity. That's according to a new report released Tuesday by the nonpartisan nonprofit consumer education organization PowerLines, which analyzed capital spending plans from 51 investor-owned utilities. A majority of those companies, which serve 250 million U.S. customers, cited data centers as a top driver of capital expenditures in their earnings reports.</description>
       <guid isPermaLink="true">https://www.cbsnews.com/news/data-centers-drive-1-4-trillion-power-grid-investment/</guid>
       <pubDate>Tue, 14 Apr 2026 15:43:23 +0000</pubDate>
     </item>
     <item>
       <title>Data centers undertake great Midwest migration in search of power - Fierce Network</title>
       <link>https://www.fierce-network.com/cloud/data-centers-undertake-great-midwest-migration-search-power</link>
-      <description>Data center developers are shifting major projects to the Midwest, particularly Illinois, due to severe power constraints in traditional hubs. This migration is creating new grid demands and opportunities for large-scale power infrastructure, including generation and storage.</description>
+      <description>Data centers undertake great Midwest migration in search of power Fierce Network</description>
       <guid isPermaLink="true">https://www.fierce-network.com/cloud/data-centers-undertake-great-midwest-migration-search-power</guid>
       <pubDate>Tue, 14 Apr 2026 16:53:00 +0000</pubDate>
     </item>
     <item>
       <title>The Balance Of Power In The World Is Shifting, &amp; The US Will Be The Biggest Loser</title>
       <link>https://cleantechnica.com/2026/04/14/the-balance-of-power-in-the-world-is-shifting-the-us-will-be-the-biggest-loser/</link>
-      <description>On 2026-04-14, CleanTechnica published an opinion piece arguing the global balance of power is shifting away from the United States, citing historical military actions and recent political events. The article mentions no specific power-market numbers like MW, MWh, or $.</description>
+      <description>Seen from space, the Earth is a beautiful place, marked by blue oceans and green forests. There are no visible boundaries between nations and no way to tell which of its human inhabitants is white, or brown, or black. Closer to home, however, humans have elected to create countries that go to war with each other all the time to avenge some slight or gain some political advantage. Often nations will forge alliances to protect them from or impose their will on other alliances. Since 1945, a country called the United States — what a misnomer that is! — has been the 800-pound gorilla on the world stage, using its economic and military muscle to impose its will on others. Sometimes that has been a good thing, but mostly it has cost the American people untold trillions of dollars to build hundreds of military bases in more than 90 countries around the world. Over time, America’s military mi...</description>
       <guid isPermaLink="true">https://cleantechnica.com/2026/04/14/the-balance-of-power-in-the-world-is-shifting-the-us-will-be-the-biggest-loser/</guid>
       <pubDate>Tue, 14 Apr 2026 17:48:52 +0000</pubDate>
     </item>
     <item>
       <title>States are Struggling to Meet Their Clean Energy Goals. Data Centers are to Blame - Broadband Breakfast</title>
       <link>https://broadbandbreakfast.com/states-are-struggling-to-meet-their-clean-energy-goals-data-centers-are-to-blame/</link>
-      <description>Explosive data center demand is forcing utilities in multiple states to delay fossil fuel retirements and abandon clean energy targets, directly conflicting with state-level decarbonization mandates. This creates a critical tension between economic development from data center growth and the feasibility of existing climate policy.</description>
+      <description>States across the country are struggling to meet their clean energy goals due to the increase in demand. LAS VEGAS, April 14, 2026 (AP) — Nevada's largest utility says it will need three times the electricity required to power Las Vegas just to handle proposed data centers — and it probably can't do that without fossil fuels. That means the utility could miss Nevada's clean energy targets requiring 50% renewable power by 2030.</description>
       <guid isPermaLink="true">https://broadbandbreakfast.com/states-are-struggling-to-meet-their-clean-energy-goals-data-centers-are-to-blame/</guid>
       <pubDate>Tue, 14 Apr 2026 17:54:59 +0000</pubDate>
     </item>
     <item>
       <title>Utility investment plans jump 21%, further threatening affordability: PowerLines</title>
       <link>https://www.utilitydive.com/news/utility-investment-plans-jump-21-further-threatening-affordability-power/817524/</link>
-      <description>On 2026-04-15, Utility Dive reported on rising utility investment plans and rate increase requests, driven by load growth from data centers and AI, which threaten electricity affordability. Utility capital expenditure plans jumped 21%, with $31 billion in rate increases requested in the latest year, and summer peak demand is projected to grow by 224 GW (24%) over the next decade.</description>
+      <description>“It’s like a gold rush,” said Southern Alliance for Clean Energy Executive Director Stephen Smith. Utilities are proposing investments to meet load growth that at times is “pure speculation,” he said. Utility spending plans show “a significant increase over the pace of annual spending over the last decade,” Hua said. And while capex investment doesn’t have to result in higher electricity prices, “that correlation is pretty sharp.” Along with the increased spending, gas and electric utilities last year requested $31 billion in rate increases, more than double the $15 billion requested by utilities in 2024 . Those increases “have not yet fully hit people’s bills,” Hua said. Capex and rate increases are “both leading indicators for where the trends around utility and electricity affordability could go over the next coming years,” he said.</description>
       <guid isPermaLink="true">https://www.utilitydive.com/news/utility-investment-plans-jump-21-further-threatening-affordability-power/817524/</guid>
       <pubDate>Wed, 15 Apr 2026 09:48:04 +0000</pubDate>
     </item>
     <item>
       <title>Habitat Energy Expands Into PJM - Bluefield Daily Telegraph</title>
       <link>https://www.businesswire.com/news/home/20260415643233/en/</link>
-      <description>Habitat Energy expanded its battery storage optimization and trading operations into the PJM Interconnection market in April 2026. This move positions the company to manage assets in the largest U.S. wholesale electricity market, which includes Illinois.</description>
+      <description>Habitat Energy Expands Into PJM Bluefield Daily Telegraph</description>
       <guid isPermaLink="true">https://www.businesswire.com/news/home/20260415643233/en/</guid>
       <pubDate>Wed, 15 Apr 2026 11:02:37 +0000</pubDate>
     </item>
     <item>
       <title>Silver demand from PV industry expected to drop 19% this year</title>
       <link>https://pv-magazine-usa.com/2026/04/15/silver-demand-from-pv-industry-expected-to-drop-19-this-year/</link>
-      <description>On 2026-04-15, pv magazine USA reported on a forecast decline in silver demand from the global photovoltaic industry. The report states silver demand from PV producers is forecast to fall 19% in 2026 to around 151 million ounces, following a 6% decline to 186.6 million ounces in 2025.</description>
+      <description>The global silver market remains structurally tight despite weakening demand from the photovoltaic sector, with elevated prices and constrained supply continuing to shape the PV manufacturing landscape. According to the latest World Silver Survey 2026 by independent research consultancy Metals Focus , silver prices rose sharply through 2025, averaging just over $40 per ounce, a 42% year-on-year increase, before climbing to even higher levels in early 2026 . The rally was driven by a combination of strong investment demand, tightening physical supply, and ongoing geopolitical and macroeconomic uncertainty. At the same time, the solar sector, long a key driver of industrial silver demand, is entering a period of adjustment. Silver demand from PV producers declined by 6% in 2025 to 186.6 million ounces and is now forecast to fall by a further 19% in 2026 to around 151 million ounces.</description>
       <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/15/silver-demand-from-pv-industry-expected-to-drop-19-this-year/</guid>
       <pubDate>Wed, 15 Apr 2026 14:31:36 +0000</pubDate>
     </item>
     <item>
       <title>An outdated FERC policy is undermining the White House’s ratepayer protection pledge</title>
       <link>https://www.utilitydive.com/news/ferc-transmission-policy-white-house-ratepayer-protection-peskoe/815438/</link>
-      <description>On 2026-04-15, Harvard's Ari Peskoe argues that an outdated 1994 FERC transmission pricing policy allows utilities to roll billions in data-center-driven transmission upgrade costs into rates paid by all customers, undermining a White House ratepayer protection pledge. The policy, developed from a 1991 Penelec case, prohibits 'and' pricing but allows disaggregated cost recovery for different facilities, as seen in a 2014 utility contract for a wind farm.</description>
+      <description>FERC should revisit its transmission pricing policy and require utilities to assign the full costs of service to power-hungry data centers, writes Harvard’s Ari Peskoe. Ari Peskoe is director of Harvard Law School’s Electricity Law Initiative. Data center developers in March agreed to the White House’s ratepayer protection pledge, committing to “pay for all new power delivery infrastructure required” for their projects , including upgrades to local transmission networks. Utilities, however, are thwarting that commitment by rolling billions of dollars in data-center-driven transmission upgrades into rates that everyone pays.</description>
       <guid isPermaLink="true">https://www.utilitydive.com/news/ferc-transmission-policy-white-house-ratepayer-protection-peskoe/815438/</guid>
       <pubDate>Wed, 15 Apr 2026 15:31:37 +0000</pubDate>
     </item>
     <item>
       <title>The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending - CNBC</title>
       <link>https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html</link>
-      <description>Public sentiment toward AI and data centers has turned sharply negative, with a majority of U.S. voters now believing AI's risks outweigh its benefits. This shift is creating political and regulatory headwinds for tech companies planning massive data center expansions and public offerings.</description>
+      <description>Artificial intelligence is losing the popularity contest in the United States, and that's bad news for some of Big Tech 's power players. The trend has implications for richly valued companies like OpenAI and Anthropic , which are both on the path to go public. It also threatens Amazon , Google , Microsoft and Meta , the so-called hyperscalers planning to spend hundreds of billions of dollars to compete for data centers to power AI. The latest signal of negative sentiment was extreme.</description>
       <guid isPermaLink="true">https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html</guid>
       <pubDate>Wed, 15 Apr 2026 23:57:11 +0000</pubDate>
     </item>
     <item>
       <title>Data center growth is off the charts thanks to AI. Here's what to know - Deseret News</title>
       <link>https://www.deseret.com/business/2026/04/15/utah-data-centers-artificial-intelligence-ai-water-energy-electricity-use-economic-impacts-jobs-tax-incentives/</link>
-      <description>AI-driven data center growth is creating unprecedented power demand, with 75 GW of new utility power for AI data centers planned for operation by 2028. This surge is straining grids and prompting state-level policy responses, including construction restrictions and new power generation initiatives.</description>
+      <description>Art is an award-winning reporter who covers advanced industry and technology on the Deseret News' special projects team. When it comes to the burgeoning field of artificial intelligence software, computing power is king and right now, demand for data center processing capacity is far outstripping supply. Utah currently plays host to 48 operational data centers that draw 920 megawatts of power with and additional 2600 megawatts now under construction and set to more than triple the state’s overall data center output, according to an April 2026 analysis released Wednesday by the University of Utah’s Kem C. Gardner Policy Institute.</description>
       <guid isPermaLink="true">https://www.deseret.com/business/2026/04/15/utah-data-centers-artificial-intelligence-ai-water-energy-electricity-use-economic-impacts-jobs-tax-incentives/</guid>
       <pubDate>Thu, 16 Apr 2026 03:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Data center growth could raise homeowners’ electricity bills - cbs19.tv</title>
       <link>https://www.cbs19.tv/video/news/local/data-center-growth-could-raise-homeowners-electricity-bills/501-7ec2790e-0cc3-45d1-916c-8d74c4f85e6f</link>
-      <description>Rapid data center growth is creating upward pressure on residential electricity rates in some markets. This dynamic highlights a direct conflict between industrial load growth and consumer rate stability.</description>
+      <description>Data center growth could raise homeowners’ electricity bills cbs19.tv</description>
       <guid isPermaLink="true">https://www.cbs19.tv/video/news/local/data-center-growth-could-raise-homeowners-electricity-bills/501-7ec2790e-0cc3-45d1-916c-8d74c4f85e6f</guid>
       <pubDate>Thu, 16 Apr 2026 03:24:00 +0000</pubDate>
     </item>
     <item>
       <title>Apollo's Jim Zelter on AI Disruption and the Future of Private Credit</title>
-      <description>On 2026-04-16, Apollo Global Management President Jim Zelter discussed investment trends in a Goldman Sachs podcast. No specific numbers (MW/MWh/$/rate/deadline) were provided in the truncated content.</description>
+      <description>Apollo Global Management President Jim Zelter talks about the unprecedented surge in capital expenditures, the future of private credit, and where he’s seeing investment opportunities around the world. This episode was recorded on March 11, 2026. The opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representa...</description>
       <guid isPermaLink="false">article-1261</guid>
       <pubDate>Thu, 16 Apr 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Data centers pose grid, cost issues for Arizona - gilbertsunnews.com</title>
       <link>https://www.gilbertsunnews.com/news/data-centers-pose-grid-cost-issues-for-arizona/article_f6ffb5dc-77fe-4d64-9f44-92ed24e294ef.html</link>
-      <description>Arizona's state task force warns that rapid data center growth is straining grid reliability and threatening ratepayer affordability. The continuous, concentrated demand from these facilities is overwhelming traditional utility planning and maintenance cycles.</description>
+      <description>Meta’s 2.5 million-square-foot data center in Mesa is among the largest in the county. A new state report warns that the booming growth of data centers and other “large-load” customers in Arizona poses a challenge to grid reliability and electric rates. The Governor’s Office of Resiliency’s Arizona Energy Promise Taskforce calls for “a suite of policy considerations to enable Arizona to accommodate economic growth without compromising grid reliability or unfairly increasing costs for existing customers.”</description>
       <guid isPermaLink="true">https://www.gilbertsunnews.com/news/data-centers-pose-grid-cost-issues-for-arizona/article_f6ffb5dc-77fe-4d64-9f44-92ed24e294ef.html</guid>
       <pubDate>Thu, 16 Apr 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Thermal And Power Realities Of The AI Era - Semiconductor Engineering</title>
       <link>https://www.semi.org/en/blogs/the-thermal-and-power-realities-of-the-ai-era</link>
-      <description>The AI era is driving a fundamental shift in data center power and thermal requirements, creating unprecedented demand for dense, reliable power and advanced cooling solutions. This surge directly pressures regional grids and creates a critical market for large-scale energy infrastructure, including generation, transmission, and storage.</description>
+      <description>The Thermal And Power Realities Of The AI Era Semiconductor Engineering</description>
       <guid isPermaLink="true">https://www.semi.org/en/blogs/the-thermal-and-power-realities-of-the-ai-era</guid>
       <pubDate>Thu, 16 Apr 2026 07:34:51 +0000</pubDate>
     </item>
     <item>
       <title>Water use is a key data center issue. This will get you caught up. - Milwaukee Journal Sentinel</title>
       <link>https://www.jsonline.com/story/news/environment/2026/04/16/how-much-water-do-data-centers-use-we-answer-a-half-dozen-questions/89538284007/</link>
-      <description>Data center growth in the Great Lakes region, driven by water access and climate, is creating significant water and energy demand that strains local resources and infrastructure. This demand is slowing the clean energy transition and creating financial risks for communities.</description>
+      <description>Wisconsin is emerging as a hub for data center development because of access to fresh water, cooler climate and affordable land. But the massive water and energy demands needed to power and cool these facilities are reshaping how communities think about shared water resources. In the Great Lakes region, data centers typically buy water from local utilities, so they don’t appear as major individual users in public databases, making their true demand hard to see. The lack of visibility has fueled transparency concerns and left communities unsure how new data centers will affect water supplies and watersheds. We answer six questions about data center water use.</description>
       <guid isPermaLink="true">https://www.jsonline.com/story/news/environment/2026/04/16/how-much-water-do-data-centers-use-we-answer-a-half-dozen-questions/89538284007/</guid>
       <pubDate>Thu, 16 Apr 2026 10:04:00 +0000</pubDate>
     </item>
     <item>
       <title>Number Go Up - Mother Jones</title>
       <link>https://www.motherjones.com/politics/2026/04/number-go-up/</link>
-      <description>AI-driven data center expansion is driving unprecedented capital expenditure and energy demand, with projected consumption by 2030 equaling the power for 41 million US homes. This surge in concentrated demand creates acute pressure on grid capacity, generation, and infrastructure planning.</description>
+      <description>Two years ago, we devoted an entire issue to the rise of the American oligarchy . Since then, our oligarchic system has become more entrenched and pervasive, revolving around a small crew of tech titans whose quest for wealth and power—in all of its forms—is destabilizing our democracy and reshaping our society. In the May + June 2026 issue, we investigate our new AI overlords and the world they are striving to create, whether we like it or not. Read the rest of the package here . Sam Altman once promised that the future would be a rocket ship that didn’t feel like one. “We are climbing the long arc of exponential technological progress,” he wrote last year. “It always looks vertical looking forward and flat going backwards, but it’s one smooth curve.” You can argue with the sentiment, but you can’t dispute the numbers: Over the last half-decade, a volatile mix of technological breakt...</description>
       <guid isPermaLink="true">https://www.motherjones.com/politics/2026/04/number-go-up/</guid>
       <pubDate>Thu, 16 Apr 2026 11:00:33 +0000</pubDate>
     </item>
     <item>
       <title>Apollo's Jim Zelter on AI Disruption and the Future of Private Credit</title>
       <link>https://www.youtube.com/watch?v=5aEqPiUm4gw</link>
-      <description>On 2026-04-16, Apollo Global Management President Jim Zelter discussed investment trends in a Goldman Sachs interview recorded on March 11, 2026. No specific numbers (MW/MWh/$/rate/deadline) were provided in the available content.</description>
+      <description>Apollo Global Management President Jim Zelter talks about the unprecedented surge in capital expenditures, the future of private credit, and where he’s seeing investment opportunities around the world. This episode was recorded on March 11, 2026. The opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representa...</description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=5aEqPiUm4gw</guid>
       <pubDate>Thu, 16 Apr 2026 12:00:20 +0000</pubDate>
     </item>
     <item>
       <title>Cyber threats for PV: What are distributed denial-of-service attacks and how do they work</title>
       <link>https://pv-magazine-usa.com/2026/04/16/cyber-threats-for-pv-what-are-distributed-denial-of-service-attacks-and-how-do-they-work/</link>
-      <description>On 2026-04-16, pv magazine USA reported on Distributed Denial-of-Service (DDoS) cyberattacks targeting network-connected PV systems and Battery Energy Storage Systems (BESS). The article contains no specific numerical data on capacity, cost, or rates.</description>
+      <description>Distributed Denial-of-Service (DDoS) cyberattacks are a major category of cyber threats targeting digital and cyber-physical systems that rely on network availability, particularly when systems depend on continuous communication for monitoring and control. These attacks involve overwhelming a target system, server, or network with a massive volume of traffic generated from multiple compromised devices. Instead of intercepting communication, as in other attack types, DDoS attacks aim to exhaust system resources, making services unavailable to legitimate users. As a result, operators may lose visibility and control over critical infrastructure. DDoS attacks may also target PV systems and solar plants that are network-connected, disrupting communications between controllers, inverters, SCADA systems, and monitoring platforms. By flooding these systems with traffic, attackers can delay or...</description>
       <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/16/cyber-threats-for-pv-what-are-distributed-denial-of-service-attacks-and-how-do-they-work/</guid>
       <pubDate>Thu, 16 Apr 2026 12:25:07 +0000</pubDate>
     </item>
     <item>
       <title>High-Density AI Is Forcing a Power Reckoning at the Rack</title>
       <link>https://www.powermag.com/high-density-ai-is-forcing-a-power-reckoning-at-the-rack/</link>
-      <description>On 2026-04-16, POWER Magazine reports that high-density AI computing is forcing the data center industry to reconsider AC-to-DC power conversion at the rack level due to significant efficiency losses. At AI-scale rack densities reaching 300 kW, a 4% conversion loss at a 100 kW rack creates a 4 kW heat load, compounding electrical waste and cooling costs.</description>
+      <description>The data center industry is having a power problem. The problem is at the rack. Artificial intelligence (AI) is driving rack power into ranges where conversion losses are no longer background noise. Every piece of equipment in a data center rack—graphics processing units (GPUs), central processing units (CPUs), storage—runs on direct-current (DC) power. Most facilities still distribute high-voltage alternating current (AC) to the rack and convert it to DC at the point of use. At AI-scale densities, that’s an inefficiency the industry can no longer afford to ignore. GPU-intensive environments are calling for rack power densities as high as 300 kW. Converting AC to DC at the rack results in energy loss, cost, and complexity that compound as densities rise. As the data center industry scales to massive capacities, the question of how to distribute power more effectively centers on reliab...</description>
       <guid isPermaLink="true">https://www.powermag.com/high-density-ai-is-forcing-a-power-reckoning-at-the-rack/</guid>
       <pubDate>Thu, 16 Apr 2026 12:47:15 +0000</pubDate>
     </item>
     <item>
       <title>ERCOT says Texas demand could quadruple but cautions forecast may be inflated</title>
       <link>https://www.utilitydive.com/news/texas-demand-to-quadruple-by-2032-ercot-says-maybe-but-dont-bet-on-it/817698/</link>
-      <description>On 2026-04-16, ERCOT published a preliminary forecast indicating Texas's peak electricity demand could reach 367,790 MW by 2032, driven by data centers and large industrial loads. The forecast, which ERCOT cautions may be inflated, compares to a current peak demand record of 85,508 MW set in August 2023.</description>
+      <description>The forecast is “preliminary,” said grid officials, who may request changes to the analysis. It is based on ERCOT forecasting, as well as utilities working directly with large load customers. Peak demand in the Electric Reliability Council of Texas territory could more than quadruple to 367,790 MW by 2032, driven by data centers and other large load customers, the grid operator said in a preliminary forecast published Wednesday. ERCOT, which serves most of Texas, set its current peak demand record of 85,508 MW in August 2023.</description>
       <guid isPermaLink="true">https://www.utilitydive.com/news/texas-demand-to-quadruple-by-2032-ercot-says-maybe-but-dont-bet-on-it/817698/</guid>
       <pubDate>Thu, 16 Apr 2026 14:33:21 +0000</pubDate>
     </item>
     <item>
       <title>Texas power demand to more than quadruple by 2032 as data center boom rolls on, ERCOT says - San Antonio Express-News</title>
       <link>https://www.expressnews.com/business/article/texas-data-centers-power-demand-ercot-22210102.php</link>
-      <description>ERCOT forecasts Texas peak electricity demand will more than quadruple to 376,790 MW by 2032, driven primarily by data centers. This unprecedented load growth presents a massive grid capacity and reliability challenge for the state.</description>
+      <description>ERCOT is forecasting a record-breaking summer of energy demand, with the grid operator attributing the rapid growth in demand to the influx of data centers coming to Texas. Electricity usage in Texas is expected to smash records this summer as the state grid operator braces for peak demand to more than quadruple by 2032, boosted by data centers and other big users flocking to the state, population growth and increasingly severe weather. This summer’s expected 15% increase over the demand record set in August 2023 was reported by the Electric Reliability Council of Texas in its long-term load forecast issued Thursday. The grid operator is projecting this summer’s peak to reach 98,000 megawatts, up from the 85,508 megawatts Texans used to stay cool Aug. 10, 2023. ERCOT said it has ample supply to meet this summer’s demand.</description>
       <guid isPermaLink="true">https://www.expressnews.com/business/article/texas-data-centers-power-demand-ercot-22210102.php</guid>
       <pubDate>Thu, 16 Apr 2026 20:21:58 +0000</pubDate>
     </item>
     <item>
       <title>Energy Officials Pressured to Expand Grid as AI Demand Surges - Broadband Breakfast</title>
       <link>https://broadbandbreakfast.com/energy-officials-pressured-to-expand-grid-as-ai-demand-surges/</link>
-      <description>Energy Secretary Chris Wright testified on April 16, 2026, that surging AI and data center demand is forcing a rapid expansion of U.S. power generation and grid capacity. The Department of Energy is exploring using federal land and sites to co-locate data centers with new power generation to manage this demand.</description>
+      <description>The department is exploring using federal land and agency sites to speed data center buildout. WASHINGTON, April 16, 2026 – Energy Secretary Chris Wright said Thursday that surging demand from AI and data centers is reshaping U.S. energy policy, as lawmakers questioned how the Department of Energy can expand power supply without increasing electricity costs. Testifying before the House Energy and Commerce committee, Wright said that AI, data centers, and reshoring manufacturing are creating “huge demand for electricity,” requiring rapid expansion of generation and grid capacity.</description>
       <guid isPermaLink="true">https://broadbandbreakfast.com/energy-officials-pressured-to-expand-grid-as-ai-demand-surges/</guid>
       <pubDate>Thu, 16 Apr 2026 20:37:36 +0000</pubDate>
     </item>
     <item>
       <title>Webcast: Navigating Data Center Development Risks &amp; Emerging Litigation Trends - Gibson Dunn</title>
       <link>https://www.gibsondunn.com/webcast-navigating-data-center-development-risks-emerging-litigation-trends/</link>
-      <description>Gibson Dunn hosted a CLE-accredited webcast on April 16, 2026, focused on legal risks and litigation trends in data center development. The session provided practical guidance on identifying and mitigating disputes related to digital infrastructure, including power supply.</description>
+      <description>Webcasts | April 16, 2026 Join us for a recorded webcast offering a comprehensive guide to the challenges inherent in data center development and the legal risks that may arise. Gain practical insights into key considerations and emerging patterns in digital infrastructure disputes and learn how to identify and mitigate issues before they become obstacles. This program has been approved for credit in accordance with the requirements of the New York State Continuing Legal Education Board for a maximum of 1.0 credit hour, of which 1.0 credit hour may be applied toward the area of professional practice requirement. This course is approved for transitional/non-transitional credit.</description>
       <guid isPermaLink="true">https://www.gibsondunn.com/webcast-navigating-data-center-development-risks-emerging-litigation-trends/</guid>
       <pubDate>Thu, 16 Apr 2026 23:56:09 +0000</pubDate>
     </item>
     <item>
       <title>What’s with the data centers controversy? - The Daily Advocate</title>
       <link>https://www.dailyadvocate.com/2026/04/16/whats-with-the-data-centers-controversy/</link>
-      <description>The article identifies data center power demand as a central controversy in energy planning. This matters because it creates new grid constraints and market opportunities for flexible resources like BESS.</description>
+      <description>What’s with the data centers controversy? The Daily Advocate</description>
       <guid isPermaLink="true">https://www.dailyadvocate.com/2026/04/16/whats-with-the-data-centers-controversy/</guid>
       <pubDate>Fri, 17 Apr 2026 03:56:00 +0000</pubDate>
     </item>
     <item>
       <title>After 2 years, ratepayer pain and political fallout from Georgia’s nuclear plant Vogtle</title>
       <link>https://www.utilitydive.com/news/after-2-years-ratepayer-pain-political-fallout-georgia-nuclear-vogtle/817792/</link>
-      <description>On 2026-04-17, Patty Durand of Georgians for Affordable Energy critiques the $36 billion, 2 GW Plant Vogtle nuclear project in Georgia, which caused a nearly 25% rate increase for Georgia Power customers in April 2024. The article contrasts this with Texas building 36 GW of solar and storage for about $36 billion in 4 years.</description>
+      <description>Texas built 36 GW of solar and storage in 4 years, for about $36 billion. Georgia built 2 GW of nuclear in 15 years at the same cost, writes Patty Durand, founder of Georgians for Affordable Energy. Patty Durand is founder of Georgians for Affordable Energy, a nonprofit advocating for fair utility rates and clean energy. In 2022 she was a candidate for the Georgia Public Service Commission, and she served as president of the Smart Energy Consumer Collaborative from 2010-2020. In April 2024, Georgia Power completed the first new nuclear units in the United States in 30 years. But for Georgia Power customers, the project did not come with a celebration: It came with an almost 25% rate increase.</description>
       <guid isPermaLink="true">https://www.utilitydive.com/news/after-2-years-ratepayer-pain-political-fallout-georgia-nuclear-vogtle/817792/</guid>
       <pubDate>Fri, 17 Apr 2026 12:35:53 +0000</pubDate>
     </item>
     <item>
       <title>US power purchase agreements reach record prices: LevelTen</title>
       <link>https://www.utilitydive.com/news/wind-solar-ppa-prices-levelten/817780/</link>
-      <description>On 2026-04-17, LevelTen Energy reported record-high U.S. power purchase agreement prices for wind and solar, driven by intense demand and development challenges. The average Q1 2026 PPA price reached $79.40/MWh for wind and $64.49/MWh for solar, marking the highest levels since LevelTen's index began in 2018.</description>
+      <description>Industry analysts say the Iran war and impending tax credit expiration have not yet played a major role in rising power purchase agreement prices. The average North American solar power purchase agreement price rose 4.7% during the first quarter of 2026, while wind prices rose nearly 8%, according to the latest data from the energy marketplace at LevelTen Energy. Solar and wind PPA costs have increased 13% and 24%, respectively, since this time last year. Project cancellations, increased permitting delays and costs, labor shortages, tariffs and even rising insurance premiums are among the top factors increasing costs for renewable energy developers, but the current price escalation seems primarily driven by the intensity of demand for electric generation, according to Joey Lange, a senior managing director at energy advisory firm Trio.</description>
       <guid isPermaLink="true">https://www.utilitydive.com/news/wind-solar-ppa-prices-levelten/817780/</guid>
       <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ERCOT Now Warning Texas of Data Centers Power Demands - Ksst Radio</title>
       <link>https://www.ksstradio.com/2026/04/ercot-now-warning-texas-of-data-centers-power-demands/</link>
-      <description>ERCOT warns Texas regulators that peak electricity demand could more than triple to over 256,524 MW by 2032, driven by data centers and crypto mining. This forces the Public Utility Commission of Texas to balance costly overbuilding against the risk of grid reliability failures.</description>
+      <description>April 17, 2026 – Texas’ main power grid operator is warning regulators that electricity demand could surge dramatically over the next decade, fueled by rapid growth in data centers, cryptocurrency mining operations, and large-scale industrial projects. At a hearing scheduled this week, the Electric Reliability Council of Texas (ERCOT) is expected to present projections showing that peak electricity demand—currently at a record 85,508 megawatts—could more than triple by 2032. The forecast reflects an unprecedented wave of new, energy-intensive developments seeking to connect to the grid, particularly in fast-growing regions of the state. But ERCOT officials are also emphasizing a key caveat: the projections carry significant uncertainty. Many of the proposed projects driving the forecasts are still in early stages, and some may be delayed, scaled back, or never completed. Factors such...</description>
       <guid isPermaLink="true">https://www.ksstradio.com/2026/04/ercot-now-warning-texas-of-data-centers-power-demands/</guid>
       <pubDate>Fri, 17 Apr 2026 13:43:34 +0000</pubDate>
     </item>
     <item>
       <title>Earth Day: Loudoun County’s Data Center Boom | Newswise - Newswise</title>
       <link>https://www.newswise.com/articles/list/latest-news</link>
-      <description>Loudoun County, Virginia, is experiencing a significant data center boom, which is driving unprecedented electricity demand and straining local grid infrastructure. This surge in load is creating immediate pressure on power generation, transmission, and land use, with implications for grid reliability and energy policy in other high-growth regions.</description>
+      <description>Earth Day: Loudoun County’s Data Center Boom | Newswise Newswise</description>
       <guid isPermaLink="true">https://www.newswise.com/articles/list/latest-news</guid>
       <pubDate>Fri, 17 Apr 2026 13:50:00 +0000</pubDate>
     </item>
     <item>
       <title>Data Centers, Power Markets, and the Economy: How the AI Buildout is Reshaping Energy Costs and the Grid - JD Supra</title>
       <link>https://www.jdsupra.com/legalnews/data-centers-power-markets-and-the-8753269/</link>
-      <description>Data center and AI-driven electricity demand is materially impacting wholesale power prices, retail rates, and grid interconnection queues, with PJM's 2026 capacity auction already causing double-digit retail price increases in states like New Jersey. This has triggered federal and state policy responses, including the White House's March 2026 'Ratepayer Protection Pledge' and new state-level large-load tariffs.</description>
+      <description>Data centers – driven by artificial intelligence, cloud computing, and hyperscale digital infrastructure – are the new reality and are emerging as a consequential force in the United States economy. What was once a niche planning issue for utilities has now become a national debate as power-intensive data center loads are already impacting electricity rates, grid reliability, inflation, and economic development. Over the past several months, and especially in early 2026, nearly all sectors have begun to grapple with how the demands of the digital economy are reshaping energy systems and household costs, often resulting in significant public and policy-driven backlash . Utility Rate Consequences Estimates indicate that data centers already consume roughly four percent of national electricity production , and some projections now place that figure as high as 9-12 percent by the end of t...</description>
       <guid isPermaLink="true">https://www.jdsupra.com/legalnews/data-centers-power-markets-and-the-8753269/</guid>
       <pubDate>Fri, 17 Apr 2026 13:58:28 +0000</pubDate>
     </item>
     <item>
       <title>The future of data centers and AI might surprise you - VCU News</title>
       <link>https://news.vcu.edu/article/future-of-data-centers</link>
-      <description>Data center expert Peter Aiken predicts a shift from the current centralized data center 'arms race' to a focus on efficiency and distributed computing, driven by community pushback and technological change. This transition poses substantial risk for investors and localities currently betting heavily on centralized data center expansion.</description>
+      <description>Virginia is home to the most data centers in the nation – more than 600, which is one-third of all the data centers on Earth. Driven by advances in artificial intelligence, more data centers are being built to house the computer systems and technology that support AI’s expansion into all corners of work and life. While some growth is inevitable, Peter Aiken , associate professor at the Virginia Commonwealth University School of Business , expects a “softening” of this peak. Aiken, Ph.D., is a data management authority who specializes in information systems, and over more than three decades, he has helped organizations leverage data to save an estimated $1.5 billion. “We are approaching a ceiling driven by community pushback and inevitable engineering efficiencies,” he said.</description>
       <guid isPermaLink="true">https://news.vcu.edu/article/future-of-data-centers</guid>
       <pubDate>Fri, 17 Apr 2026 14:52:43 +0000</pubDate>
     </item>
     <item>
       <title>Energy demand in ComEd territory could double by 2040, in part driven by data centers - Capitol News Illinois</title>
       <link>https://capitolnewsillinois.com/news/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</link>
-      <description>Electricity demand in ComEd's service territory could more than double by 2040, primarily driven by data center projects in the interconnection queue. This surge creates an urgent need for new generation and demand management solutions to prevent supply shortfalls.</description>
+      <description>This summary was written by the reporters and editors who worked on this story. A House committee got an overview this week of how data centers are driving up energy demand and threatening potential shortfalls in the second of three planned hearings on the matter. The fundamental issue is that data centers have created a sudden and massive spike in demand for electricity, and Illinois doesn’t yet have the supply to accommodate it.</description>
       <guid isPermaLink="true">https://capitolnewsillinois.com/news/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</guid>
       <pubDate>Fri, 17 Apr 2026 15:56:25 +0000</pubDate>
     </item>
     <item>
       <title>Amid shortages of electricity, labor, and equipment, 40% of data centers in the U.S. may face delays, while major AI companies are constrained by limited computing power. - Moomoo</title>
       <link>https://www.moomoo.com/news/post/68455091/amid-shortages-of-electricity-labor-and-equipment-40-of-data</link>
-      <description>40% of U.S. data center projects may face delays due to shortages of electricity, labor, and equipment, while major AI companies are constrained by limited computing power. This indicates significant supply chain and grid capacity bottlenecks impacting critical digital infrastructure growth.</description>
+      <description>Amid shortages of electricity, labor, and equipment, 40% of data centers in the U.S. may face delays, while major AI companies are constrained by limited computing power. Moomoo</description>
       <guid isPermaLink="true">https://www.moomoo.com/news/post/68455091/amid-shortages-of-electricity-labor-and-equipment-40-of-data</guid>
       <pubDate>Fri, 17 Apr 2026 16:16:18 +0000</pubDate>
     </item>
     <item>
       <title>Rewiring global energy security</title>
       <link>https://pv-magazine-usa.com/2026/04/17/rewiring-global-energy-security/</link>
-      <description>On 2026-04-17, pv magazine USA reported that global leaders are shifting focus from emissions reduction to energy independence and security, framing renewables as a strategic asset. The article states renewables avoided $467 billion in fossil fuel costs in 2024, and 91% of new utility-scale renewables were cheaper than fossil fuels, with solar PV 41% cheaper and onshore wind 53% cheaper.</description>
+      <description>The rationale for renewables has broadened. Military interventions and resource wars continue across the world, natural gas prices remain one disruption away from another spike, supply chains are being weaponized, and electricity grids are straining beneath surging demand from data centers and AI. In an era of geopolitical tension and volatility, electrifying economies through renewable power and smarter, more flexible grids is the most credible path to economic competitiveness and energy security. This marks a fundamental shift from centralized fossil fuel infrastructure and imported fuels, which leave economies exposed to shocks. An emerging energy order is being built on domestically produced electricity from renewable energy backed by storage, digital controls and responsive demand. Security depends on building capacity, reinforcing networks and increasing flexibility. Each new so...</description>
       <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/17/rewiring-global-energy-security/</guid>
       <pubDate>Fri, 17 Apr 2026 16:47:13 +0000</pubDate>
     </item>
     <item>
       <title>Week in Review: Truth about Data Centers - Goldwater Institute</title>
       <link>https://www.goldwaterinstitute.org/week-in-review-truth-about-data-centers/</link>
-      <description>On 2026-04-17, the Goldwater Institute published a review titled 'Week in Review: Truth about Data Centers'. No specific numbers, dates, locations, or regulatory actions are provided in the given content.</description>
+      <description>Week in Review: Truth about Data Centers Goldwater Institute</description>
       <guid isPermaLink="true">https://www.goldwaterinstitute.org/week-in-review-truth-about-data-centers/</guid>
       <pubDate>Fri, 17 Apr 2026 19:55:32 +0000</pubDate>
     </item>
     <item>
       <title>Energy demand in ComEd territory could double by 2040, in part driven by data centers - Daily Herald</title>
       <link>https://www.dailyherald.com/20260417/illinois-state-politics/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</link>
-      <description>Electricity demand in ComEd's service territory is projected to double by 2040, with data center growth cited as a key driver. This scale of demand growth will require significant new grid infrastructure and generation capacity.</description>
+      <description>Energy demand in ComEd territory could double by 2040, in part driven by data centers Daily Herald</description>
       <guid isPermaLink="true">https://www.dailyherald.com/20260417/illinois-state-politics/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</guid>
       <pubDate>Fri, 17 Apr 2026 20:44:32 +0000</pubDate>
     </item>
     <item>
       <title>China Plans To Double Renewable Energy By 2035. That’s The Good News.</title>
       <link>https://cleantechnica.com/2026/04/17/china-plans-to-double-renewable-energy-by-2035-thats-the-good-news/</link>
-      <description>On 2026-04-17, China plans to double its renewable energy capacity by 2035. The article notes China is simultaneously building many new coal-fired facilities.</description>
+      <description>China continues to build massive renewable energy systems, but at the same time it is building lot of new coal fired facilities. The post China Plans To Double Renewable Energy By 2035. That’s The Good News.</description>
       <guid isPermaLink="true">https://cleantechnica.com/2026/04/17/china-plans-to-double-renewable-energy-by-2035-thats-the-good-news/</guid>
       <pubDate>Fri, 17 Apr 2026 20:57:02 +0000</pubDate>
     </item>
     <item>
       <title>How much power will data centers coming to Texas use? No one really knows. - Houston Chronicle</title>
       <link>https://www.houstonchronicle.com/business/energy/article/texas-data-center-electricity-forecast-22208827.php</link>
-      <description>On 2026-04-17, the Houston Chronicle reports uncertainty regarding the future power consumption of data centers coming to Texas. No specific numbers, rates, or deadlines are provided in the content.</description>
+      <description>How much power will data centers coming to Texas use? No one really knows. Houston Chronicle</description>
       <guid isPermaLink="true">https://www.houstonchronicle.com/business/energy/article/texas-data-center-electricity-forecast-22208827.php</guid>
       <pubDate>Fri, 17 Apr 2026 22:00:53 +0000</pubDate>
     </item>
     <item>
       <title>ERCOT expects energy demand to quadruple by 2032 - ABC13 Houston</title>
       <link>https://abc13.com/post/ercot-expects-energy-demand-quadruple-2032/18908223/</link>
-      <description>On 2026-04-17, ERCOT expects a major increase in energy demand. The forecast indicates demand will quadruple by the year 2032.</description>
+      <description>ERCOT expects energy demand to quadruple by 2032 ABC13 Houston</description>
       <guid isPermaLink="true">https://abc13.com/post/ercot-expects-energy-demand-quadruple-2032/18908223/</guid>
       <pubDate>Fri, 17 Apr 2026 22:18:03 +0000</pubDate>
     </item>
     <item>
       <title>New kind of boom for US oil patch: Wall Street securitisation</title>
       <link>https://www.ft.com/content/5449419d-aa3f-4ca7-99a7-9215dc80d401</link>
-      <description>On 2026-04-18, a news article from the energy sector reported on the rising popularity of a new kind of financial deal in the US oil patch involving Wall Street securitization. The article highlighted intense investor demand for esoteric debt secured by cash flows, but provided no specific numbers.</description>
+      <description>Rising popularity of deals highlights intense investor demand for esoteric debt secured by cash flows</description>
       <guid isPermaLink="true">https://www.ft.com/content/5449419d-aa3f-4ca7-99a7-9215dc80d401</guid>
       <pubDate>Sat, 18 Apr 2026 11:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sweating It Out: Data Centers Plus Summer Heat Raises Power Bills, Blackout Risk - The Daily Upside</title>
+      <link>https://www.thedailyupside.com/industries/energy/sweating-it-out-data-centers-plus-summer-heat-raise-power-bills-blackout-risk/</link>
+      <description>The US electrical grid isn’t ready for the double whammy of peak air conditioner usage and peak data center power needs. What happens now? In September 2022, as triple-digit outdoor temperatures baked large parts of California for days at a time, state officials begged residents to dial down their air conditioning use or risk breaking the electrical grid. The plea worked. Power demand fell during peak hours and the state avoided widespread, potentially catastrophic rolling blackouts.</description>
+      <guid isPermaLink="true">https://www.thedailyupside.com/industries/energy/sweating-it-out-data-centers-plus-summer-heat-raise-power-bills-blackout-risk/</guid>
+      <pubDate>Sun, 19 Apr 2026 04:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 21:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 16:33:39 +0000</lastBuildDate>
     <item>
       <title>FlexGen moves to expand offerings with acquisition of Clean Energy Services</title>
       <link>https://pv-magazine-usa.com/2026/04/03/flexgen-moves-to-expand-offerings-with-acquisition-of-clean-energy-services/</link>
@@ -33,14 +33,14 @@
     <item>
       <title>Utility companies to spend $1.4 trillion over the next 5 years amid data center boom - CBS News</title>
       <link>https://www.cbsnews.com/news/data-centers-drive-1-4-trillion-power-grid-investment/</link>
-      <description>U.S. investor-owned utilities plan to invest $1.4 trillion over the next five years, a 20% increase from 2025 projections, primarily driven by data center electricity demand. This capital expenditure surge risks passing significant costs to residential ratepayers, with nearly half potentially funded by households.</description>
+      <description>U.S. investor-owned utilities plan to invest $1.4 trillion over the next five years, a 20% increase from 2025 projections, primarily driven by data center electricity demand. This capital expenditure surge risks passing significant costs to residential ratepayers, with oversight needed to manage the financial impact.</description>
       <guid isPermaLink="true">https://www.cbsnews.com/news/data-centers-drive-1-4-trillion-power-grid-investment/</guid>
       <pubDate>Tue, 14 Apr 2026 15:43:23 +0000</pubDate>
     </item>
     <item>
       <title>Data centers undertake great Midwest migration in search of power - Fierce Network</title>
       <link>https://www.fierce-network.com/cloud/data-centers-undertake-great-midwest-migration-search-power</link>
-      <description>Data center developers are shifting major projects to the Midwest, particularly Illinois, due to severe power constraints in traditional hubs. This migration is creating new, large-scale electricity demand that will strain regional grids and require rapid generation and transmission build-out.</description>
+      <description>Data center developers are shifting major projects to the Midwest, particularly Illinois, due to severe power constraints in traditional hubs. This migration is creating new grid demands and opportunities for large-scale power infrastructure, including generation and storage.</description>
       <guid isPermaLink="true">https://www.fierce-network.com/cloud/data-centers-undertake-great-midwest-migration-search-power</guid>
       <pubDate>Tue, 14 Apr 2026 16:53:00 +0000</pubDate>
     </item>
@@ -172,7 +172,7 @@
     <item>
       <title>Texas power demand to more than quadruple by 2032 as data center boom rolls on, ERCOT says - San Antonio Express-News</title>
       <link>https://www.expressnews.com/business/article/texas-data-centers-power-demand-ercot-22210102.php</link>
-      <description>ERCOT forecasts Texas peak electricity demand will more than quadruple to 376,790 MW by 2032, driven primarily by data centers. This unprecedented load growth presents a major long-term challenge for grid reliability and infrastructure planning.</description>
+      <description>ERCOT forecasts Texas peak electricity demand will more than quadruple to 376,790 MW by 2032, driven primarily by data centers. This unprecedented load growth presents a massive grid capacity and reliability challenge for the state.</description>
       <guid isPermaLink="true">https://www.expressnews.com/business/article/texas-data-centers-power-demand-ercot-22210102.php</guid>
       <pubDate>Thu, 16 Apr 2026 20:21:58 +0000</pubDate>
     </item>
@@ -220,15 +220,15 @@
     </item>
     <item>
       <title>Earth Day: Loudoun County’s Data Center Boom | Newswise - Newswise</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOSXNjakdMbTRMc0ExbldoZVBKOC1YVmhZQUxMRTZCSDg0cXRxWXd1Tk11djFpMk1kZWlFSFZRNjZUZXJiUDM1cXF5b2M1dUJTRUxSX2d5VzducjIyNVNYYmYwRm9NSkNEeG1PdWhjbzFLRDIzR3RqVHVHNF8yUDZMSTFLb9IBgwFBVV95cUxOSXNjakdMbTRMc0ExbldoZVBKOC1YVmhZQUxMRTZCSDg0cXRxWXd1Tk11djFpMk1kZWlFSFZRNjZUZXJiUDM1cXF5b2M1dUJTRUxSX2d5VzducjIyNVNYYmYwRm9NSkNEeG1PdWhjbzFLRDIzR3RqVHVHNF8yUDZMSTFLbw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US:en</link>
+      <link>https://www.newswise.com/articles/list/latest-news</link>
       <description>Loudoun County, Virginia, is experiencing a significant data center boom, which is driving unprecedented electricity demand and straining local grid infrastructure. This surge in load is creating immediate pressure on power generation, transmission, and land use, with implications for grid reliability and energy policy in other high-growth regions.</description>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOSXNjakdMbTRMc0ExbldoZVBKOC1YVmhZQUxMRTZCSDg0cXRxWXd1Tk11djFpMk1kZWlFSFZRNjZUZXJiUDM1cXF5b2M1dUJTRUxSX2d5VzducjIyNVNYYmYwRm9NSkNEeG1PdWhjbzFLRDIzR3RqVHVHNF8yUDZMSTFLb9IBgwFBVV95cUxOSXNjakdMbTRMc0ExbldoZVBKOC1YVmhZQUxMRTZCSDg0cXRxWXd1Tk11djFpMk1kZWlFSFZRNjZUZXJiUDM1cXF5b2M1dUJTRUxSX2d5VzducjIyNVNYYmYwRm9NSkNEeG1PdWhjbzFLRDIzR3RqVHVHNF8yUDZMSTFLbw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US:en</guid>
+      <guid isPermaLink="true">https://www.newswise.com/articles/list/latest-news</guid>
       <pubDate>Fri, 17 Apr 2026 13:50:00 +0000</pubDate>
     </item>
     <item>
       <title>Data Centers, Power Markets, and the Economy: How the AI Buildout is Reshaping Energy Costs and the Grid - JD Supra</title>
       <link>https://www.jdsupra.com/legalnews/data-centers-power-markets-and-the-8753269/</link>
-      <description>Data center and AI-driven electricity demand is materially impacting wholesale power prices, retail rates, and grid interconnection queues, with PJM's 2026 capacity auction already causing double-digit retail price increases in states like New Jersey. This has triggered federal and state policy responses, including the White House's March 2026 'Ratepayer Protection Pledge' and state-level large-load tariffs, to manage cost allocation and grid reliability.</description>
+      <description>Data center and AI-driven electricity demand is materially impacting wholesale power prices, retail rates, and grid interconnection queues, with PJM's 2026 capacity auction already causing double-digit retail price increases in states like New Jersey. This has triggered federal and state policy responses, including the White House's March 2026 'Ratepayer Protection Pledge' and new state-level large-load tariffs.</description>
       <guid isPermaLink="true">https://www.jdsupra.com/legalnews/data-centers-power-markets-and-the-8753269/</guid>
       <pubDate>Fri, 17 Apr 2026 13:58:28 +0000</pubDate>
     </item>
@@ -259,6 +259,48 @@
       <description>On 2026-04-17, pv magazine USA reported that global leaders are shifting focus from emissions reduction to energy independence and security, framing renewables as a strategic asset. The article states renewables avoided $467 billion in fossil fuel costs in 2024, and 91% of new utility-scale renewables were cheaper than fossil fuels, with solar PV 41% cheaper and onshore wind 53% cheaper.</description>
       <guid isPermaLink="true">https://pv-magazine-usa.com/2026/04/17/rewiring-global-energy-security/</guid>
       <pubDate>Fri, 17 Apr 2026 16:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Week in Review: Truth about Data Centers - Goldwater Institute</title>
+      <link>https://www.goldwaterinstitute.org/week-in-review-truth-about-data-centers/</link>
+      <description>On 2026-04-17, the Goldwater Institute published a review titled 'Week in Review: Truth about Data Centers'. No specific numbers, dates, locations, or regulatory actions are provided in the given content.</description>
+      <guid isPermaLink="true">https://www.goldwaterinstitute.org/week-in-review-truth-about-data-centers/</guid>
+      <pubDate>Fri, 17 Apr 2026 19:55:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy demand in ComEd territory could double by 2040, in part driven by data centers - Daily Herald</title>
+      <link>https://www.dailyherald.com/20260417/illinois-state-politics/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</link>
+      <description>Electricity demand in ComEd's service territory is projected to double by 2040, with data center growth cited as a key driver. This scale of demand growth will require significant new grid infrastructure and generation capacity.</description>
+      <guid isPermaLink="true">https://www.dailyherald.com/20260417/illinois-state-politics/energy-demand-in-comed-territory-could-double-by-2040-in-part-driven-by-data-centers/</guid>
+      <pubDate>Fri, 17 Apr 2026 20:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Plans To Double Renewable Energy By 2035. That’s The Good News.</title>
+      <link>https://cleantechnica.com/2026/04/17/china-plans-to-double-renewable-energy-by-2035-thats-the-good-news/</link>
+      <description>On 2026-04-17, China plans to double its renewable energy capacity by 2035. The article notes China is simultaneously building many new coal-fired facilities.</description>
+      <guid isPermaLink="true">https://cleantechnica.com/2026/04/17/china-plans-to-double-renewable-energy-by-2035-thats-the-good-news/</guid>
+      <pubDate>Fri, 17 Apr 2026 20:57:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>How much power will data centers coming to Texas use? No one really knows. - Houston Chronicle</title>
+      <link>https://www.houstonchronicle.com/business/energy/article/texas-data-center-electricity-forecast-22208827.php</link>
+      <description>On 2026-04-17, the Houston Chronicle reports uncertainty regarding the future power consumption of data centers coming to Texas. No specific numbers, rates, or deadlines are provided in the content.</description>
+      <guid isPermaLink="true">https://www.houstonchronicle.com/business/energy/article/texas-data-center-electricity-forecast-22208827.php</guid>
+      <pubDate>Fri, 17 Apr 2026 22:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERCOT expects energy demand to quadruple by 2032 - ABC13 Houston</title>
+      <link>https://abc13.com/post/ercot-expects-energy-demand-quadruple-2032/18908223/</link>
+      <description>On 2026-04-17, ERCOT expects a major increase in energy demand. The forecast indicates demand will quadruple by the year 2032.</description>
+      <guid isPermaLink="true">https://abc13.com/post/ercot-expects-energy-demand-quadruple-2032/18908223/</guid>
+      <pubDate>Fri, 17 Apr 2026 22:18:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New kind of boom for US oil patch: Wall Street securitisation</title>
+      <link>https://www.ft.com/content/5449419d-aa3f-4ca7-99a7-9215dc80d401</link>
+      <description>On 2026-04-18, a news article from the energy sector reported on the rising popularity of a new kind of financial deal in the US oil patch involving Wall Street securitization. The article highlighted intense investor demand for esoteric debt secured by cash flows, but provided no specific numbers.</description>
+      <guid isPermaLink="true">https://www.ft.com/content/5449419d-aa3f-4ca7-99a7-9215dc80d401</guid>
+      <pubDate>Sat, 18 Apr 2026 11:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

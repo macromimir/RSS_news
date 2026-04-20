@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 17:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:20:33 +0000</lastBuildDate>
     <item>
       <title>Utility companies to spend $1.4 trillion over the next 5 years amid data center boom - CBS News</title>
       <link>https://www.cbsnews.com/news/data-centers-drive-1-4-trillion-power-grid-investment/</link>
@@ -71,6 +71,20 @@
       <description>The US electrical grid isn’t ready for the double whammy of peak air conditioner usage and peak data center power needs. What happens now? In September 2022, as triple-digit outdoor temperatures baked large parts of California for days at a time, state officials begged residents to dial down their air conditioning use or risk breaking the electrical grid. The plea worked. Power demand fell during peak hours and the state avoided widespread, potentially catastrophic rolling blackouts.</description>
       <guid isPermaLink="true">https://www.thedailyupside.com/industries/energy/sweating-it-out-data-centers-plus-summer-heat-raise-power-bills-blackout-risk/</guid>
       <pubDate>Sun, 19 Apr 2026 04:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global 2025 Power Demand Rose as EV, Data Centers Grew, IEA Says - Bloomberg.com</title>
+      <link>https://www.bloomberg.com/news/articles/2026-04-20/global-2025-power-demand-rose-as-ev-data-centers-grew-iea-says</link>
+      <description>Global 2025 Power Demand Rose as EV, Data Centers Grew, IEA Says Bloomberg.com</description>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-04-20/global-2025-power-demand-rose-as-ev-data-centers-grew-iea-says</guid>
+      <pubDate>Mon, 20 Apr 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data center power demand will double by 2030: IEA - W.Media</title>
+      <link>https://w.media/data-center-power-demand-will-double-by-2030-iea/</link>
+      <description>Listen to latest: Inside the Enterprise: Managing Cloud, Cost, and Compliance | EP 66</description>
+      <guid isPermaLink="true">https://w.media/data-center-power-demand-will-double-by-2030-iea/</guid>
+      <pubDate>Mon, 20 Apr 2026 10:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -63,6 +63,7 @@
       const {data, error} = await client
         .from(TABLE)
         .select("*")
+        .eq("reviewed", 0)
         .order("article_date", {ascending:false})
         .limit(1000);
       if(error){ setStatus(error.message, false); return; }
@@ -103,6 +104,9 @@
       const {error} = await client.from(TABLE).update(payload).eq("article_id", articleId);
       if(error){ setStatus(error.message, false); return; }
       setStatus(`Saved ID ${articleId} ${field}=${checked ? 1 : 0}`);
+      if(field === "reviewed" && checked){
+        await loadRows();
+      }
     }
 
     function esc(v){ return String(v ?? "").replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;"); }

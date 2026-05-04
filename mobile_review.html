@@ -22,10 +22,7 @@
 <body>
   <div class="top">
     <div><strong>Mobile Review Queue</strong></div>
-    <div class="m">Configure once: Supabase URL + anon key (saved in browser).</div>
-    <input id="url" type="text" placeholder="SUPABASE_URL (https://...supabase.co)">
-    <input id="key" type="text" placeholder="SUPABASE_ANON_KEY">
-    <button onclick="saveCfg()">Save Config</button>
+    <div class="m">No login required. Uses built-in Supabase public config.</div>
     <button onclick="loadRows()">Refresh</button>
     <div id="status" class="m"></div>
   </div>
@@ -35,6 +32,7 @@
   <script>
     const TABLE = "mobile_review_queue";
     const DEFAULT_SUPABASE_URL = "https://zjhftxjiflejitzttfjd.supabase.co";
+    const DEFAULT_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpqaGZ0eGppZmxlaml0enR0ZmpkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4NzA0OTQsImV4cCI6MjA5MzQ0NjQ5NH0.uAubxG_KNmoqRID1I2OuzQCWOjORf6fzTUGenX8FdtQ";
     const rowsEl = document.getElementById("rows");
     const statusEl = document.getElementById("status");
     let client = null;
@@ -44,19 +42,15 @@
       statusEl.className = ok ? "m ok" : "m bad";
     }
 
-    function saveCfg(){
-      localStorage.setItem("sb_url", document.getElementById("url").value.trim());
-      localStorage.setItem("sb_key", document.getElementById("key").value.trim());
-      init();
-    }
-
     function init(){
-      const url = localStorage.getItem("sb_url") || DEFAULT_SUPABASE_URL;
-      const key = localStorage.getItem("sb_key") || "";
-      document.getElementById("url").value = url;
-      document.getElementById("key").value = key;
+      const url = DEFAULT_SUPABASE_URL;
+      const key = DEFAULT_SUPABASE_ANON_KEY;
       if(!url || !key){
-        setStatus("Enter Supabase URL + anon key, then Save Config.", false);
+        setStatus("Missing built-in Supabase config.", false);
+        return false;
+      }
+      if(key === "PASTE_ANON_KEY_HERE"){
+        setStatus("Set DEFAULT_SUPABASE_ANON_KEY in mobile_review.html first.", false);
         return false;
       }
       client = window.supabase.createClient(url, key);

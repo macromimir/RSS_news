@@ -34,6 +34,7 @@
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script>
     const TABLE = "mobile_review_queue";
+    const DEFAULT_SUPABASE_URL = "https://zjhftxjiflejitzttfjd.supabase.co";
     const rowsEl = document.getElementById("rows");
     const statusEl = document.getElementById("status");
     let client = null;
@@ -50,7 +51,7 @@
     }
 
     function init(){
-      const url = localStorage.getItem("sb_url") || "";
+      const url = localStorage.getItem("sb_url") || DEFAULT_SUPABASE_URL;
       const key = localStorage.getItem("sb_key") || "";
       document.getElementById("url").value = url;
       document.getElementById("key").value = key;
@@ -116,4 +117,3 @@
   </script>
 </body>
 </html>
-

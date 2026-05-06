@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 17:53:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:01:55 +0000</lastBuildDate>
     <item>
       <title>Utility companies to spend $1.4 trillion over the next 5 years amid data center boom - CBS News</title>
       <link>https://www.cbsnews.com/news/data-centers-drive-1-4-trillion-power-grid-investment/</link>
@@ -99,6 +99,13 @@
       <description>AI shattered the forecasting models utilities have relied on for decades — and the gas plants going up today will outlast every net-zero deadline on the books. Global data center power demand is projected to hit 84 GW by 2027 —a 50 percent jump from 2023 levels—with AI workloads accounting for 27 percent of that total, according to Goldman Sachs Research. The grid cannot keep up with AI. For decades, electricity demand grew slowly and predictably, giving utilities comfortable margins to plan capacity years in advance. That model broke almost overnight. Between 2023 and 2024 alone, utilities’ five-year summer peak demand forecasts jumped from 38 GW to 128 GW , a more than threefold increase in a single planning cycle.</description>
       <guid isPermaLink="true">https://interestingengineering.com/energy/ai-power-grid-data-centers-us</guid>
       <pubDate>Fri, 24 Apr 2026 16:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI boom sparks rare warning of ‘significant risks’ to grid - E&amp;E News by POLITICO</title>
+      <link>https://www.eenews.net/articles/ai-boom-sparks-rare-warning-of-significant-risks-to-grid/</link>
+      <description>North America’s grid watchdog is slated to issue its highest level of warning Monday about threats to the power system from large data centers, underscoring the challenges facing utilities and grid operators grappling with a surge in electricity demand. The move signals a new chapter where major technology companies like Amazon and Microsoft may face stricter rules on how they use power. The Level 3 alert from the North American Electric Reliability Corp., the grid’s not-for-profit security monitor, was developed after reports of data centers abruptly going offline in Virginia and Texas, raising concerns about blackouts. “Computational loads, such as data centers, could increase exponentially in the next four years,” NERC said in a draft of the alert, adding that “significant risks” to the bulk power system “need to be addressed through immediate industry action.”</description>
+      <guid isPermaLink="true">https://www.eenews.net/articles/ai-boom-sparks-rare-warning-of-significant-risks-to-grid/</guid>
+      <pubDate>Mon, 04 May 2026 10:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

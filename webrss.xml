@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 02:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 13:03:27 +0000</lastBuildDate>
+    <item>
+      <title>Grid congestion cost PJM $1 billion in one month</title>
+      <link>https://www.renewableenergyworld.com/power-grid/transmission/grid-congestion-cost-pjm-1-billion-in-one-month/</link>
+      <description>PJM Interconnection has earned its place in the pantheon of bottlenecks, wedged somewhere alongside first-ballot Hall of Famers ‘hourglass’ and ‘Los Angeles traffic.’ The largest grid operator in North America, whose purview spans parts of 13 states and Washington, D.C., became notorious for an interconnection queue so backlogged that the regional transmission organization (RTO) effectively shut it down in 2022 to rework its processes. The timing, considering unprecedented electric load growth in the region and beyond, was less than ideal. PJM reopened its queue in late April and is currently reviewing applications for 811 new generation projects capable of generating 220 gigawatts (GW) of electricity. The transmission to support those sites cannot come online fast enough.</description>
+      <guid isPermaLink="true">https://www.renewableenergyworld.com/power-grid/transmission/grid-congestion-cost-pjm-1-billion-in-one-month/</guid>
+      <pubDate>Wed, 10 Jun 2026 17:21:59 +0000</pubDate>
+    </item>
     <item>
       <title>How load flexibility buys time for America’s data center boom - Utility Dive</title>
       <link>https://www.utilitydive.com/news/how-load-flexibility-buys-time-data-center-boom-icf/822355/</link>
@@ -50,6 +57,13 @@
       <description>Meanwhile, residential prices have been growing in all regions of the United States, “and we expect this trend to continue,” the U.S. Energy Information Administration said. Share Copy link Email LinkedIn X/Twitter Facebook Print Add us on Google</description>
       <guid isPermaLink="true">https://www.utilitydive.com/news/data-centers-electricity-residential-rates-eia/820342/</guid>
       <pubDate>Fri, 15 May 2026 13:18:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Power Demand Is Outpacing Grid Buildout - Broadband Breakfast</title>
+      <link>https://broadbandbreakfast.com/ai-power-demand-is-outpacing-grid-buildout/</link>
+      <description>Utilities are struggling to connect large data centers quickly enough to maintain reliability, panelists said. WASHINGTON, May 13, 2026 – Artificial Intelligence and large-scale data centers are driving electricity demand faster than utilities can expand generation and transmission infrastructure, energy regulators said Tuesday. Panelists speaking at a United States Energy Association event warned that gigawatt-scale data centers are increasingly requesting grid interconnections within one to three years, while transmission projects can take seven years or more to complete.</description>
+      <guid isPermaLink="true">https://broadbandbreakfast.com/ai-power-demand-is-outpacing-grid-buildout/</guid>
+      <pubDate>Wed, 13 May 2026 22:11:54 +0000</pubDate>
     </item>
     <item>
       <title>ComEd electric customers brace for double-digit spike in bills - WBEZ Chicago</title>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 13:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 13:42:41 +0000</lastBuildDate>
     <item>
       <title>Companies With Data Centers That May Use More Energy Than Cities - Yahoo Finance</title>
       <link>https://climatecrisis247.com/news/companies-with-data-centers-that-may-use-more-energy-than-cities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=companies-with-data-centers-that-may-use-more-energy-than-cities</link>
@@ -22,13 +22,6 @@
       <description>Data centers could more than double their share of U.S. power and account for 9.5 to 15 percent of electricity use by decade’s end, according to a new analysis backed by the Department of Energy. The long-awaited report from Lawrence Berkeley National Laboratory suggests that pressure on the electricity grid from artificial intelligence is growing. The findings are the first major estimate from the lab on data centers’ future power use during the second Trump administration. “Although successive generations of computing hardware improve in energy efficiency,” the report says , “the scale and growth of computational demand more than offset these efficiency gains, leading to continued increases in absolute electricity consumption.”</description>
       <guid isPermaLink="true">https://www.eenews.net/articles/us-data-centers-electricity-use-could-double-by-2030-doe-lab-says/</guid>
       <pubDate>Mon, 22 Jun 2026 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PJM and ERCOT face grid connection requests exceeding US power capacity - Crypto Briefing</title>
-      <link>https://cryptobriefing.com/pjm-ercot-grid-requests-exceed-us-power-capacity/</link>
-      <description>AI data centers and Bitcoin miners are flooding America's two largest grid operators with power demands that dwarf existing infrastructure, risking trillions in stranded semiconductor investment Here’s a number that should make you uncomfortable: ERCOT’s interconnection queue, the line of projects waiting to plug into the Texas power grid, has ballooned to over 233 GW by early 2026. That’s a nearly 300% increase year-over-year. The culprit is not mysterious. More than 70% of those ERCOT requests come from data centers, the sprawling server farms that power everything from ChatGPT to cloud computing.</description>
-      <guid isPermaLink="true">https://cryptobriefing.com/pjm-ercot-grid-requests-exceed-us-power-capacity/</guid>
-      <pubDate>Mon, 15 Jun 2026 00:55:02 +0000</pubDate>
     </item>
     <item>
       <title>Grid congestion cost PJM $1 billion in one month</title>
@@ -136,11 +129,11 @@
       <pubDate>Mon, 11 May 2026 16:22:36 +0000</pubDate>
     </item>
     <item>
-      <title>AI boom sparks rare warning of ‘significant risks’ to grid - E&amp;E News by POLITICO</title>
-      <link>https://www.eenews.net/articles/ai-boom-sparks-rare-warning-of-significant-risks-to-grid/</link>
-      <description>North America’s grid watchdog is slated to issue its highest level of warning Monday about threats to the power system from large data centers, underscoring the challenges facing utilities and grid operators grappling with a surge in electricity demand. The move signals a new chapter where major technology companies like Amazon and Microsoft may face stricter rules on how they use power. The Level 3 alert from the North American Electric Reliability Corp., the grid’s not-for-profit security monitor, was developed after reports of data centers abruptly going offline in Virginia and Texas, raising concerns about blackouts. “Computational loads, such as data centers, could increase exponentially in the next four years,” NERC said in a draft of the alert, adding that “significant risks” to the bulk power system “need to be addressed through immediate industry action.”</description>
-      <guid isPermaLink="true">https://www.eenews.net/articles/ai-boom-sparks-rare-warning-of-significant-risks-to-grid/</guid>
-      <pubDate>Mon, 04 May 2026 10:41:00 +0000</pubDate>
+      <title>Why AI data centers are overwhelming the US power grid</title>
+      <link>https://interestingengineering.com/energy/ai-power-grid-data-centers-us</link>
+      <description>AI shattered the forecasting models utilities have relied on for decades — and the gas plants going up today will outlast every net-zero deadline on the books. Global data center power demand is projected to hit 84 GW by 2027 —a 50 percent jump from 2023 levels—with AI workloads accounting for 27 percent of that total, according to Goldman Sachs Research. The grid cannot keep up with AI. For decades, electricity demand grew slowly and predictably, giving utilities comfortable margins to plan capacity years in advance. That model broke almost overnight. Between 2023 and 2024 alone, utilities’ five-year summer peak demand forecasts jumped from 38 GW to 128 GW , a more than threefold increase in a single planning cycle.</description>
+      <guid isPermaLink="true">https://interestingengineering.com/energy/ai-power-grid-data-centers-us</guid>
+      <pubDate>Tue, 28 Apr 2026 07:51:54 +0000</pubDate>
     </item>
     <item>
       <title>Rally in Charlotte Against Duke Rate Hikes to Focus on Affordability Crisis — WEDNESDAY</title>

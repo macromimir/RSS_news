@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 13:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 13:29:28 +0000</lastBuildDate>
     <item>
       <title>Companies With Data Centers That May Use More Energy Than Cities - Yahoo Finance</title>
       <link>https://climatecrisis247.com/news/companies-with-data-centers-that-may-use-more-energy-than-cities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=companies-with-data-centers-that-may-use-more-energy-than-cities</link>
@@ -22,6 +22,13 @@
       <description>Data centers could more than double their share of U.S. power and account for 9.5 to 15 percent of electricity use by decade’s end, according to a new analysis backed by the Department of Energy. The long-awaited report from Lawrence Berkeley National Laboratory suggests that pressure on the electricity grid from artificial intelligence is growing. The findings are the first major estimate from the lab on data centers’ future power use during the second Trump administration. “Although successive generations of computing hardware improve in energy efficiency,” the report says , “the scale and growth of computational demand more than offset these efficiency gains, leading to continued increases in absolute electricity consumption.”</description>
       <guid isPermaLink="true">https://www.eenews.net/articles/us-data-centers-electricity-use-could-double-by-2030-doe-lab-says/</guid>
       <pubDate>Mon, 22 Jun 2026 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PJM and ERCOT face grid connection requests exceeding US power capacity - Crypto Briefing</title>
+      <link>https://cryptobriefing.com/pjm-ercot-grid-requests-exceed-us-power-capacity/</link>
+      <description>AI data centers and Bitcoin miners are flooding America's two largest grid operators with power demands that dwarf existing infrastructure, risking trillions in stranded semiconductor investment Here’s a number that should make you uncomfortable: ERCOT’s interconnection queue, the line of projects waiting to plug into the Texas power grid, has ballooned to over 233 GW by early 2026. That’s a nearly 300% increase year-over-year. The culprit is not mysterious. More than 70% of those ERCOT requests come from data centers, the sprawling server farms that power everything from ChatGPT to cloud computing.</description>
+      <guid isPermaLink="true">https://cryptobriefing.com/pjm-ercot-grid-requests-exceed-us-power-capacity/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:55:02 +0000</pubDate>
     </item>
     <item>
       <title>Grid congestion cost PJM $1 billion in one month</title>

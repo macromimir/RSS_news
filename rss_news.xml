@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 13:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 21:47:54 +0000</lastBuildDate>
+    <item>
+      <title>PJM’s old way of getting power built isn’t working. Has it found a fix?</title>
+      <link>https://www.canarymedia.com/articles/data-centers/pjm-get-power-built-fix</link>
+      <description>With the conclusion of its latest capacity auction, PJM Interconnection has once again shown that its process for securing new energy is unable to keep up with the wave of electricity demand from data centers. But PJM, the grid operator for the country’s biggest energy market, is poised to adopt a new process that could help fix these problems: by pushing data centers to pay directly for the new clean energy, batteries, and fossil-fueled power plants needed to meet their huge electricity demand. Late last month, PJM stakeholders achieved a rare level of consensus in voting to approve the plan for a new auction, called a reliability backstop procurement. The measure, which still needs final approval from both PJM and the federal government, represents the grid operator’s most significant step to repair an auction process that has left consumers paying more money for a less reliable gri...</description>
+      <guid isPermaLink="true">https://www.canarymedia.com/articles/data-centers/pjm-get-power-built-fix</guid>
+      <pubDate>Fri, 17 Jul 2026 07:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PJM capacity auction easily hits price cap… Again</title>
+      <link>https://www.renewableenergyworld.com/power-grid/pjm-capacity-auction-easily-hits-price-cap-again/</link>
+      <description>Stop me if you’ve heard this one before: PJM Interconnection’s latest power auction easily reached its federally mandated price collar. In its 2028/2029 Base Residual Auction, held this week, the largest grid operator in the United States came in at the ceiling imposed by a coalition of governors of all 13 PJM states and the Federal Energy Regulatory Commission (FERC), $325 per megawatt-day for its entire footprint. Without the collar, PJM estimates all zones would have cleared at $554.72 , ballooning the total cost of the auction to nearly $30 billion, almost double its actual cost of $16.4 billion. This marks the third consecutive PJM power auction to fetch top dollar . Although initially approved for two auctions, this April FERC accepted PJM’s proposal to extend the collar to the most recent auction and the next, which closes on December 15 for the 2029/2030 Delivery Year.</description>
+      <guid isPermaLink="true">https://www.renewableenergyworld.com/power-grid/pjm-capacity-auction-easily-hits-price-cap-again/</guid>
+      <pubDate>Thu, 16 Jul 2026 19:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI bumps power cost 60% as Chicago’s grid fails to hit supply goal – Crain/s/Bloomberg - Wirepoints</title>
+      <link>https://wirepoints.org/ai-bumps-power-cost-60-as-chicagos-grid-fails-to-hit-supply-goal-crain-s-bloomberg/</link>
+      <description>PJM Interconnection LLC, which serves 13 states stretching from the East Coast to Chicago, said Tuesday that its auction to procure power for the year starting June 2028 tied a $16.4 billion record set in late 2025. “Such a shortage does not necessarily mean that the PJM system will be unable to serve load reliably in the delivery year,” the grid operator said in a statement. “It means that PJM would have to operate with slimmer reserves and a greater level of risk.”</description>
+      <guid isPermaLink="true">https://wirepoints.org/ai-bumps-power-cost-60-as-chicagos-grid-fails-to-hit-supply-goal-crain-s-bloomberg/</guid>
+      <pubDate>Wed, 15 Jul 2026 04:08:34 +0000</pubDate>
+    </item>
     <item>
       <title>AI data centers are draining more power than the grid can provide - TechRadar</title>
       <link>https://www.techradar.com/pro/the-challenge-is-no-longer-only-how-much-power-is-needed-but-whether-it-can-be-delivered-reliably-report-finds-ai-data-centers-are-draining-more-power-than-the-grid-can-provide</link>
